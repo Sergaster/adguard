@@ -1,0 +1,981 @@
+msgid "2.5.4.6"
+msgstr "Krajina alebo oblasť (C)"
+
+msgid "2.5.4.10"
+msgstr "Organizácia (O)"
+
+msgid "2.5.4.11"
+msgstr "Organizačná jednotka (OU)"
+
+msgid "2.5.4.3"
+msgstr "Bežné meno (CN)"
+
+msgid "2.5.4.7"
+msgstr "Lokalita (L)"
+
+msgid "2.5.4.8"
+msgstr "Okres (S)"
+
+msgid "2.5.4.43"
+msgstr "Iniciály (I)"
+
+msgid "2.5.4.4"
+msgstr "Priezvisko (SN)"
+
+msgid "2.5.4.42"
+msgstr "Meno (G)"
+
+msgid "2.5.4.12"
+msgstr "Názov (T)"
+
+msgid "2.5.4.46"
+msgstr "dnQualifier"
+
+msgid "2.5.4.65"
+msgstr "Pseudonym"
+
+msgid "2.5.4.17"
+msgstr "PostalCode"
+
+msgid "0.9.2342.19200300.100.1.25"
+msgstr "Súčasť domény (DC)"
+
+msgid "1.2.840.113549.1.9.1"
+msgstr "E-mailová adresa (E)"
+
+msgid "1.3.6.1.5.5.7.3.1"
+msgstr "Overenie servera"
+
+msgid "1.3.6.1.5.5.7.3.2"
+msgstr "Overenie klienta"
+
+msgid "1.3.6.1.5.5.7.3.3"
+msgstr "Podpisovanie kódu"
+
+msgid "1.3.6.1.4.1.311.20.2.2"
+msgstr "Karta Smart Card - prihlásenie"
+
+msgid "1.3.6.1.5.5.7.3.4"
+msgstr "Zabezpečený e-mail"
+
+msgid "1.3.6.1.5.5.7.3.8"
+msgstr "Časové známkovanie"
+
+msgid "1.3.6.1.5.5.7.3.9"
+msgstr "Podpis protokolu OCSP (OCSP response signing)"
+
+msgid "2.5.29.37.0"
+msgstr "Ľubovoľný účel"
+
+msgid "1.3.6.1.5.5.7.1.1"
+msgstr "Prístup k informáciám certifikačnej autority"
+
+msgid "1.3.6.1.5.5.7.48.1"
+msgstr "Stavový protokol certifikátu online"
+
+msgid "1.3.6.1.5.5.7.48.2"
+msgstr "Vydavateľ certifikačnej autority"
+
+msgid "2.5.29.14"
+msgstr "Identifikátor kľúča držiteľa"
+
+msgid "2.5.29.15"
+msgstr "Použitie kľúča"
+
+msgid "2.5.29.16"
+msgstr "Obdobie používania súkromného kľúča"
+
+msgid "2.5.29.17"
+msgstr "Alternatívny názov držiteľa"
+
+msgid "2.5.29.18"
+msgstr "Alternatívny názov vydavateľa"
+
+msgid "2.5.29.19"
+msgstr "Základné obmedzenia"
+
+msgid "2.5.29.30"
+msgstr "Obmedzenia pre názov"
+
+msgid "2.5.29.31"
+msgstr "Lokality distribúcie CRL"
+
+msgid "2.5.29.32"
+msgstr "Certifikačné politiky"
+
+msgid "2.5.29.35"
+msgstr "Identifikátor kľúča certifikačnej autority"
+
+msgid "2.5.29.37"
+msgstr "Rozšírené použitie kľúča"
+
+msgid "2.5.29.54"
+msgstr "Vypnúť všetky politiky"
+
+msgid "2.5.4.5"
+msgstr "Sériové číslo (SERIALNUMBER)"
+
+msgid "2.5.4.9"
+msgstr "Adresa (STREET)"
+
+msgid "2.5.4.13"
+msgstr "Description"
+
+msgid "2.5.4.16"
+msgstr "Postal Address"
+
+msgid "2.5.4.18"
+msgstr "POBox"
+
+msgid "2.5.4.20"
+msgstr "Phone"
+
+msgid "2.5.4.24"
+msgstr "X21Address"
+
+msgid "1.3.6.1.4.1.311.2.1.10"
+msgstr "SpcSpAgencyInfo"
+
+msgid "1.3.6.1.4.1.311.2.1.26"
+msgstr "SpcMinimalCriteria"
+
+msgid "1.3.6.1.4.1.311.2.1.27"
+msgstr "SpcFinancialCriteria"
+
+msgid "1.3.6.1.4.1.311.2.1.14"
+msgstr "Rozšírenia certifikátov"
+
+msgid "1.3.6.1.4.1.311.10.1"
+msgstr "Zoznam dôveryhodných certifikátov"
+
+msgid "1.3.6.1.4.1.311.10.2"
+msgstr "Umiestnenie ďalšej aktualizácie"
+
+msgid "1.3.6.1.4.1.311.10.3.1"
+msgstr "Podpisovanie zoznamu dôveryhodných inštitúcií spoločnosti Microsoft"
+
+msgid "1.3.6.1.4.1.311.10.3.2"
+msgstr "Časové známkovanie od spoločnosti Microsoft"
+
+msgid "1.3.6.1.4.1.311.10.3.3.1"
+msgstr "Sériové číslo podpisu"
+
+msgid "1.3.6.1.4.1.311.10.3.4"
+msgstr "Systém šifrovania súborov"
+
+msgid "1.3.6.1.4.1.311.10.3.4.1"
+msgstr "Obnovenie súborov"
+
+msgid "1.3.6.1.4.1.311.10.3.5"
+msgstr "Overovanie ovládačov hardvéru systému Windows"
+
+msgid "1.3.6.1.4.1.311.10.3.6"
+msgstr "Overovanie systémových súčastí systému Windows"
+
+msgid "1.3.6.1.4.1.311.10.3.7"
+msgstr "Overovanie systémových súčastí systému Windows - OEM"
+
+msgid "1.3.6.1.4.1.311.10.3.8"
+msgstr "Overovanie integrovaných systémových súčastí systému Windows"
+
+msgid "1.3.6.1.4.1.311.10.3.9"
+msgstr "Root List Signer (Podpísaný pre zoznam koreňových certifikátov)"
+
+msgid "1.3.6.1.4.1.311.10.3.10"
+msgstr "Oprávnené podriadenie"
+
+msgid "1.3.6.1.4.1.311.10.3.11"
+msgstr "Obnovenie kľúčov"
+
+msgid "1.3.6.1.4.1.311.10.3.12"
+msgstr "Podpisovanie dokumentu"
+
+msgid "1.3.6.1.4.1.311.10.3.13"
+msgstr "Podpisovanie s neobmedzenou platnosťou"
+
+msgid "1.3.6.1.4.1.311.10.4.1"
+msgstr "Dôverovať alebo nedôverovať"
+
+msgid "1.3.6.1.4.1.311.10.5.1"
+msgstr "Elektronické práva"
+
+msgid "1.3.6.1.4.1.311.10.6.1"
+msgstr "Licencie balíka kľúčov"
+
+msgid "1.3.6.1.4.1.311.10.6.2"
+msgstr "Overovanie servera prideľujúceho licencie"
+
+msgid "1.3.6.1.4.1.311.10.9.1"
+msgstr "Distribučné miesta krížových certifikátov"
+
+msgid "1.3.6.1.4.1.311.10.10.1"
+msgstr "Atribúty CMC"
+
+msgid "1.3.6.1.4.1.311.10.12.1"
+msgstr "Všetky politiky aplikácií"
+
+msgid "1.3.6.1.4.1.311.13.2.1"
+msgstr "Názov zápisu - pár hodnôt"
+
+msgid "1.3.6.1.4.1.311.13.2.2"
+msgstr "Poskytovateľ kryptografických služieb - registrácia"
+
+msgid "1.3.6.1.4.1.311.20.1"
+msgstr "CTL Usage (Použitie CTL)"
+
+msgid "1.3.6.1.4.1.311.20.2"
+msgstr "Názov šablóny certifikátu (Typ certifikátu)"
+
+msgid "1.3.6.1.4.1.311.20.2.1"
+msgstr "Agent žiadosti o certifikát"
+
+msgid "1.3.6.1.4.1.311.20.2.3"
+msgstr "Hlavné meno"
+
+msgid "1.3.6.1.4.1.311.20.3"
+msgstr "Kópia certifikátu"
+
+msgid "1.3.6.1.4.1.311.21.1"
+msgstr "Certifikačná autorita – verzia"
+
+msgid "1.3.6.1.4.1.311.21.2"
+msgstr "Hodnota hash pre predchádzajúci certifikát certifikačnej autority"
+
+msgid "1.3.6.1.4.1.311.21.3"
+msgstr "Číslo virtuálneho základného zoznamu zrušených certifikátov"
+
+msgid "1.3.6.1.4.1.311.21.4"
+msgstr "Nasledujúce publikovanie zoznamu zrušených certifikátov"
+
+msgid "1.3.6.1.4.1.311.21.5"
+msgstr "Archivácia súkromného kľúča"
+
+msgid "1.3.6.1.4.1.311.21.6"
+msgstr "Agent pre obnovenie kľúčov"
+
+msgid "1.3.6.1.4.1.311.21.7"
+msgstr "Informácie o šablóne certifikátu"
+
+msgid "1.3.6.1.4.1.311.21.8"
+msgstr "Identifikátor OID koreňovej certifikačnej autority podnikovej siete"
+
+msgid "1.3.6.1.4.1.311.21.9"
+msgstr "Fiktívny podpísaný"
+
+msgid "1.3.6.1.4.1.311.21.10"
+msgstr "Politiky aplikácie"
+
+msgid "1.3.6.1.4.1.311.21.11"
+msgstr "Priradenia politiky aplikácie"
+
+msgid "1.3.6.1.4.1.311.21.12"
+msgstr "Obmedzenia politiky aplikácie"
+
+msgid "1.3.6.1.4.1.311.25.1"
+msgstr "Identifikátor GUID objektu DS"
+
+msgid "1.3.6.1.4.1.311.31.1"
+msgstr "Windows Product Update"
+
+msgid "1.3.6.1.4.1.311.44.3.4"
+msgstr "Vzťah dôvery medzi partnermi"
+
+msgid "1.3.6.1.4.1.311.47.1.1"
+msgstr "System Health Authentication"
+
+msgid "1.3.6.1.4.1.311.64.1.1"
+msgstr "Domain Name System (DNS) Server Trust"
+
+msgid "1.3.6.1.4.1.311.67.1.1"
+msgstr "Šifrovanie jednotiek BitLocker"
+
+msgid "1.3.6.1.4.1.311.67.1.2"
+msgstr "Agent obnovenia údajov funkcie BitLocker"
+
+msgid "1.3.6.1.4.1.311.76.6.1"
+msgstr "Windows Update"
+
+msgid "1.2.840.10040.4.1"
+msgstr "DSA"
+
+msgid "1.2.840.10040.4.3"
+msgstr "sha1DSA"
+
+msgid "1.2.840.113549.1.1.1"
+msgstr "RSA (RSA_SIGN)"
+
+msgid "1.2.840.113549.1.1.2"
+msgstr "md2RSA"
+
+msgid "1.2.840.113549.1.1.3"
+msgstr "md4RSA"
+
+msgid "1.2.840.113549.1.1.4"
+msgstr "md5RSA"
+
+msgid "1.2.840.113549.1.1.5"
+msgstr "sha1RSA"
+
+msgid "1.2.840.113549.1.1.7"
+msgstr "RSAES_OAEP"
+
+msgid "1.2.840.113549.1.1.8"
+msgstr "mgf1"
+
+msgid "1.2.840.113549.1.1.10"
+msgstr "RSASSA-PSS"
+
+msgid "1.2.840.113549.1.1.11"
+msgstr "sha256RSA"
+
+msgid "1.2.840.113549.1.1.12"
+msgstr "sha384RSA"
+
+msgid "1.2.840.113549.1.1.13"
+msgstr "sha512RSA"
+
+msgid "1.2.840.113549.1.3.1"
+msgstr "DH"
+
+msgid "1.2.840.113549.1.7.1"
+msgstr "Údaje PKCS 7"
+
+msgid "1.2.840.113549.1.7.2"
+msgstr "Podpísané údaje PKCS 7"
+
+msgid "1.2.840.113549.1.7.3"
+msgstr "Pečatené údaje PKCS 7"
+
+msgid "1.2.840.113549.1.7.4"
+msgstr "Podpísané a pečatené údaje PKCS 7"
+
+msgid "1.2.840.113549.1.7.5"
+msgstr "Spracované údaje PKCS 7"
+
+msgid "1.2.840.113549.1.7.6"
+msgstr "Šifrované údaje PKCS 7"
+
+msgid "1.2.840.113549.1.9.2"
+msgstr "Neštruktúrovaný názov"
+
+msgid "1.2.840.113549.1.9.3"
+msgstr "Typ obsahu"
+
+msgid "1.2.840.113549.1.9.4"
+msgstr "Súhrn správy"
+
+msgid "1.2.840.113549.1.9.5"
+msgstr "Čas podpísania"
+
+msgid "1.2.840.113549.1.9.6"
+msgstr "Registračný podpis"
+
+msgid "1.2.840.113549.1.9.7"
+msgstr "Výzva na zadanie hesla"
+
+msgid "1.2.840.113549.1.9.8"
+msgstr "Neštruktúrovaná adresa"
+
+msgid "1.2.840.113549.1.9.14"
+msgstr "Rozšírenia certifikátov"
+
+msgid "1.2.840.113549.1.9.15"
+msgstr "Možnosti SMIME"
+
+msgid "1.2.840.113549.2.2"
+msgstr "md2"
+
+msgid "1.2.840.113549.2.4"
+msgstr "md4"
+
+msgid "1.2.840.113549.2.5"
+msgstr "md5 (md5NoSign)"
+
+msgid "1.2.840.113549.3.2"
+msgstr "rc2"
+
+msgid "1.2.840.113549.3.4"
+msgstr "rc4"
+
+msgid "1.2.840.113549.3.7"
+msgstr "3des"
+
+msgid "1.3.6.1.5.5.7.1.2"
+msgstr "Biometrické"
+
+msgid "1.3.6.1.5.5.7.1.11"
+msgstr "Prístup k informáciám o držiteľovi (Subject Information Access)"
+
+msgid "1.3.6.1.5.5.7.2.1"
+msgstr "CPS"
+
+msgid "1.3.6.1.5.5.7.2.2"
+msgstr "Poznámka používateľa"
+
+msgid "1.3.6.1.5.5.7.3.5"
+msgstr "Koncový systém zabezpečenia IP"
+
+msgid "1.3.6.1.5.5.7.3.6"
+msgstr "Ukončenie tunela zabezpečenia IP"
+
+msgid "1.3.6.1.5.5.7.3.7"
+msgstr "Používateľ zabezpečenia IP"
+
+msgid "1.3.6.1.5.5.7.48.5"
+msgstr "Ukladací priestor certifikátov"
+
+msgid "1.3.6.1.5.5.7.48.1.5"
+msgstr "Bez kontroly zrušenia protokolu OCSP (id-pkix-ocsp-nocheck)"
+
+msgid "1.3.14.3.2.3"
+msgstr "md5RSA"
+
+msgid "1.3.14.3.2.7"
+msgstr "des"
+
+msgid "1.3.14.3.2.12"
+msgstr "DSA (DSA_SIGN)"
+
+msgid "1.3.14.3.2.13"
+msgstr "sha1DSA (shaDSA)"
+
+msgid "1.3.14.3.2.15"
+msgstr "shaRSA"
+
+msgid "1.3.14.3.2.18"
+msgstr "sha"
+
+msgid "1.3.14.3.2.26"
+msgstr "sha1 (sha1NoSign)"
+
+msgid "1.3.14.3.2.27"
+msgstr "dsaSHA1"
+
+msgid "1.3.14.3.2.29"
+msgstr "sha1RSA (shaRSA)"
+
+msgid "2.5.29.20"
+msgstr "Číslo zoznamu zrušených certifikátov"
+
+msgid "2.5.29.21"
+msgstr "Kód CRL Reason"
+
+msgid "2.5.29.27"
+msgstr "Indikátor zoznamu aktualizácií zoznamu zrušených certifikátov"
+
+msgid "2.5.29.28"
+msgstr "Vydávacie distribučné miesto"
+
+msgid "2.5.29.32.0"
+msgstr "Všetky politiky vydávania"
+
+msgid "2.5.29.33"
+msgstr "Priradenia politiky"
+
+msgid "2.5.29.36"
+msgstr "Obmedzenia politiky"
+
+msgid "2.5.29.46"
+msgstr "Najnovší zoznam zrušených certifikátov"
+
+msgid "2.16.840.1.113730.1.1"
+msgstr "Netscape: Typ certifikátu"
+
+msgid "2.16.840.1.113730.1.2"
+msgstr "Netscape - základná adresa URL"
+
+msgid "2.16.840.1.113730.1.3"
+msgstr "Netscape - adresa URL pre zrušenie"
+
+msgid "2.16.840.1.113730.1.4"
+msgstr "Netscape - adresa URL certifikačnej autority pre zrušenie"
+
+msgid "2.16.840.1.113730.1.7"
+msgstr "Netscape - adresa URL pre obnovenie certifikátu"
+
+msgid "2.16.840.1.113730.1.8"
+msgstr "Netscape - adresa URL pre politiku certifikačnej autority"
+
+msgid "2.16.840.1.113730.1.12"
+msgstr "Netscape - názov servera SSL"
+
+msgid "2.16.840.1.113730.1.13"
+msgstr "Netscape: Poznámka"
+
+msgid "2.16.840.1.101.3.4.1.2"
+msgstr "aes128"
+
+msgid "2.16.840.1.101.3.4.1.22"
+msgstr "aes192"
+
+msgid "2.16.840.1.101.3.4.1.42"
+msgstr "aes256"
+
+msgid "2.16.840.1.101.3.4.2.1"
+msgstr "sha256 (sha256NoSign)"
+
+msgid "2.16.840.1.101.3.4.2.2"
+msgstr "sha384 (sha384NoSign)"
+
+msgid "2.16.840.1.101.3.4.2.3"
+msgstr "sha512 (sha512NoSign)"
+
+msgid "1.2.643.2.2.3"
+msgstr "GOST R 34.11/34.10-2001"
+
+msgid "1.2.643.2.2.9"
+msgstr "GOST R 34.11-94"
+
+msgid "1.2.643.2.2.19"
+msgstr "GOST R 34.10-2001"
+
+msgid "1.2.643.2.2.21"
+msgstr "GOST 28147-89"
+
+msgid "1.2.643.2.2.98"
+msgstr "GOST R 34.10-2001 DH"
+
+msgid "1.2.643.7.1.1.1.1"
+msgstr "GOST R 34.10-2012 256 bit"
+
+msgid "1.2.643.7.1.1.1.2"
+msgstr "GOST R 34.10-2012 512 bit"
+
+msgid "1.2.643.7.1.1.2.2"
+msgstr "GOST R 34.11-2012 256 bit"
+
+msgid "1.2.643.7.1.1.2.3"
+msgstr "GOST R 34.11-2012 512 bit"
+
+msgid "1.2.643.7.1.1.3.2"
+msgstr "GOST R 34.11-2012/34.10-2012 256 bit"
+
+msgid "1.2.643.7.1.1.3.3"
+msgstr "GOST R 34.11-2012/34.10-2012 512 bit"
+
+msgid "1.2.643.7.1.2.1.1.1"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 A"
+
+msgid "1.2.643.7.1.2.1.1.2"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 B"
+
+msgid "1.2.643.7.1.2.1.1.3"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 C"
+
+msgid "1.2.643.7.1.2.1.1.4"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 D"
+
+msgid "1.2.643.7.1.2.1.2.1"
+msgstr "GOST R 34.10-2012 512 bit, default parameters"
+
+msgid "1.2.643.7.1.2.1.2.2"
+msgstr "GOST R 34.10-2012 512 bit, parameters TC26 B"
+
+msgid "1.2.643.7.1.2.1.2.3"
+msgstr "GOST R 34.10-2012 512 bit, parameters TC26 C"
+
+msgid "1.2.643.7.1.2.5.1.1"
+msgstr "GOST 28147-89, cipher parameters TC26 Z"
+
+msgid "1.2.643.3.131.1.1"
+msgstr "INN"
+
+msgid "1.2.643.100.1"
+msgstr "OGRN"
+
+msgid "1.2.643.100.3"
+msgstr "SNILS"
+
+msgid "1.2.643.100.111"
+msgstr "Subject sign tool"
+
+msgid "1.2.643.100.112"
+msgstr "Issuer sign tool"
+
+msgid "1.2.840.10046.2.1"
+msgstr "DH"
+
+msgid "1.3.6.1.5.2.3.5"
+msgstr "Overovanie KDC"
+
+msgid "1.3.6.1.5.5.7.12.2"
+msgstr "Údaje CMC"
+
+msgid "1.3.6.1.5.5.7.12.3"
+msgstr "Odpoveď CMC"
+
+msgid "2.5.29.1"
+msgstr "Identifikátor kľúča certifikačnej autority"
+
+msgid "2.5.29.2"
+msgstr "Atribúty kľúča"
+
+msgid "2.5.29.4"
+msgstr "Obmedzenie použitia kľúča"
+
+msgid "2.5.29.7"
+msgstr "Alternatívny názov držiteľa"
+
+msgid "2.5.29.8"
+msgstr "Alternatívny názov vydavateľa"
+
+msgid "2.5.29.10"
+msgstr "Základné obmedzenia"
+
+msgid "1.2.643.2.2.34.1"
+msgstr "TLS traffic audit"
+
+msgid "1.2.643.2.2.34.2"
+msgstr "Registration Authority temporary access"
+
+msgid "1.2.643.2.2.34.3"
+msgstr "Internet server content signature"
+
+msgid "1.2.643.2.2.34.4"
+msgstr "Registration Authority administrator"
+
+msgid "1.2.643.2.2.34.5"
+msgstr "Registration Authority operator"
+
+msgid "1.2.643.2.2.34.6"
+msgstr "Registration Authority user, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.7"
+msgstr "Registration Authority, CryptoPro RA, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.8"
+msgstr "CryptoPro RA, HTTP, TLS server"
+
+msgid "1.2.643.2.2.34.9"
+msgstr "CryptoPro RA, System administrator"
+
+msgid "1.2.643.2.2.34.10"
+msgstr "CryptoPro RA, Backup copy administrator"
+
+msgid "1.2.643.2.2.34.11"
+msgstr "CryptoPro CA, Authorized person"
+
+msgid "1.2.643.2.2.34.12"
+msgstr "CryptoPro CA, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.13"
+msgstr "CryptoPro CA, System administrator"
+
+msgid "1.2.643.2.2.34.14"
+msgstr "CryptoPro CA, Backup copy administrator"
+
+msgid "1.2.643.2.2.34.15"
+msgstr "CryptoPro, CA access, IPSec server"
+
+msgid "1.2.643.2.2.34.16"
+msgstr "CryptoPro HSM Audit Administrator"
+
+msgid "1.2.643.2.2.34.21"
+msgstr "CryptoPro HSM Administrator"
+
+msgid "1.2.643.2.2.34.22"
+msgstr "CryptoPro HSM Server Administrator"
+
+msgid "1.2.643.2.2.34.24"
+msgstr "CryptoPro CA, Domain Controller (Winlogon)"
+
+msgid "1.2.643.2.2.34.25"
+msgstr "TSP Server Client"
+
+msgid "1.2.643.2.2.34.26"
+msgstr "OCSP Server Client"
+
+msgid "1.2.643.2.2.34.27"
+msgstr "CryptoPro HSM Backup Administrator"
+
+msgid "1.2.643.2.2.34.28"
+msgstr "CryptoPro HSM Auditor"
+
+msgid "1.2.643.2.2.37.3.1"
+msgstr "CryptoPro CSP private keys extension. Intermediate store"
+
+msgid "1.2.643.2.2.37.3.2"
+msgstr "CryptoPro CSP private keys extension. Signature trust store"
+
+msgid "1.2.643.2.2.37.3.3"
+msgstr "CryptoPro CSP private keys extension. Exchange trust store"
+
+msgid "1.2.643.2.2.49.2"
+msgstr "Crypto-Pro restricted license"
+
+msgid "1.2.643.100.113.1"
+msgstr "Electronic signature tool KC1"
+
+msgid "1.2.643.100.113.2"
+msgstr "Electronic signature tool KC2"
+
+msgid "1.2.643.100.113.3"
+msgstr "Electronic signature tool KC3"
+
+msgid "1.2.643.100.113.4"
+msgstr "Electronic signature tool KB1"
+
+msgid "1.2.643.100.113.5"
+msgstr "Electronic signature tool KB2"
+
+msgid "1.2.643.100.113.6"
+msgstr "Electronic signature tool KA1"
+
+msgid "1.2.643.100.114.1"
+msgstr "CA electronic signature tool KC1"
+
+msgid "1.2.643.100.114.2"
+msgstr "CA electronic signature tool KC2"
+
+msgid "1.2.643.100.114.3"
+msgstr "CA electronic signature tool KC3"
+
+msgid "1.2.643.100.114.4"
+msgstr "CA electronic signature tool KB1"
+
+msgid "1.2.643.100.114.5"
+msgstr "CA electronic signature tool KB2"
+
+msgid "1.2.643.100.114.6"
+msgstr "CA electronic signature tool KA1"
+
+msgid "1.3.6.1.4.1.311.13.2.3"
+msgstr "Verzia OS"
+
+msgid "1.3.6.1.4.1.311.21.13"
+msgstr "Šifrovaný súkromný kľúč"
+
+msgid "1.3.6.1.4.1.311.21.14"
+msgstr "Publikované umiestnenia zoznamu zrušených certifikátov"
+
+msgid "1.3.6.1.4.1.311.21.15"
+msgstr "Presadiť politiku certifikačnej reťaze"
+
+msgid "1.3.6.1.4.1.311.21.16"
+msgstr "Hodnota hash certifikátu pre archivovaný kľúč"
+
+msgid "1.3.6.1.4.1.311.21.19"
+msgstr "E-mailová replikácia služby Directory Service"
+
+msgid "1.3.6.1.4.1.311.21.20"
+msgstr "Informácie o klientovi"
+
+msgid "1.3.6.1.4.1.311.21.22"
+msgstr "Verzia krížovej certifikačnej autority"
+
+msgid "1.3.6.1.5.5.8.2.2"
+msgstr "Sprostredkovateľ IKE zabezpečenia protokolu IP"
+
+msgid "1.2.840.113549.1.9.15.1"
+msgstr "Preferovať podpísané údaje"
+
+msgid "1.2.643.100.5"
+msgstr "OGRNIP"
+
+msgid "1.2.643.2.2.30.0"
+msgstr "GOST R 34.11-94, test parameters"
+
+msgid "1.2.643.2.2.30.1"
+msgstr "GOST R 34.11-94, default parameters"
+
+msgid "1.2.643.2.2.30.2"
+msgstr "GOST R 34.11-94, hash parameters 1"
+
+msgid "1.2.643.2.2.30.3"
+msgstr "GOST R 34.11-94, hash parameters 2"
+
+msgid "1.2.643.2.2.30.4"
+msgstr "GOST R 34.11-94, hash parameters 3"
+
+msgid "1.2.643.2.2.31.0"
+msgstr "GOST 28147-89, test parameters"
+
+msgid "1.2.643.2.2.31.1"
+msgstr "GOST 28147-89, default parameters"
+
+msgid "1.2.643.2.2.31.12"
+msgstr "GOST 28147-89, cipher parameters TC26 A"
+
+msgid "1.2.643.2.2.31.13"
+msgstr "GOST 28147-89, cipher parameters TC26 B"
+
+msgid "1.2.643.2.2.31.14"
+msgstr "GOST 28147-89, cipher parameters TC26 C"
+
+msgid "1.2.643.2.2.31.15"
+msgstr "GOST 28147-89, cipher parameters TC26 D"
+
+msgid "1.2.643.2.2.31.16"
+msgstr "GOST 28147-89, cipher parameters TC26 E"
+
+msgid "1.2.643.2.2.31.17"
+msgstr "GOST 28147-89, cipher parameters TC26 F"
+
+msgid "1.2.643.2.2.31.2"
+msgstr "GOST 28147-89, cipher parameters 1"
+
+msgid "1.2.643.2.2.31.3"
+msgstr "GOST 28147-89, cipher parameters 2"
+
+msgid "1.2.643.2.2.31.4"
+msgstr "GOST 28147-89, cipher parameters 3"
+
+msgid "1.2.643.2.2.31.5"
+msgstr "GOST 28147-89, Oscar 1.1 parameters"
+
+msgid "1.2.643.2.2.31.6"
+msgstr "GOST 28147-89, Oscar 1.0 parameters"
+
+msgid "1.2.643.2.2.31.7"
+msgstr "GOST 28147-89, RIC 1 parameters"
+
+msgid "1.2.643.2.2.35.0"
+msgstr "GOST R 34.10 256 bit, test parameters"
+
+msgid "1.2.643.2.2.35.1"
+msgstr "GOST R 34.10 256 bit, default parameters"
+
+msgid "1.2.643.2.2.35.2"
+msgstr "GOST R 34.10 256 bit, Oscar 2.x parameters"
+
+msgid "1.2.643.2.2.35.3"
+msgstr "GOST R 34.10 256 bit, signature parameters 1"
+
+msgid "1.2.643.2.2.36.0"
+msgstr "GOST R 34.10 256 bit, default exchange parameters"
+
+msgid "1.2.643.2.2.36.1"
+msgstr "GOST R 34.10 256 bit, exchange parameters 1"
+
+msgid "1.2.643.2.2.37.3.10"
+msgstr "CryptoPro CSP private keys extension. Exchange key usage period"
+
+msgid "1.2.643.2.2.37.3.11"
+msgstr "CryptoPro CSP private keys extension. Private key time validity control mode"
+
+msgid "1.2.643.2.2.37.3.9"
+msgstr "CryptoPro CSP private keys extension. Signature key usage period"
+
+msgid "1.2.643.2.2.38.1"
+msgstr "Personal registration base policy"
+
+msgid "1.2.643.2.2.38.2"
+msgstr "Network registration base policy"
+
+msgid "1.2.643.2.2.96"
+msgstr "GOST R 34.10-2001 ESDH"
+
+msgid "1.2.643.7.1.1.5.1.1"
+msgstr "GOST R 34.12-2015 Magma CTR-ACPKM"
+
+msgid "1.2.643.7.1.1.5.1.2"
+msgstr "GOST R 34.12-2015 Magma CTR-ACPKM-OMAC"
+
+msgid "1.2.643.7.1.1.5.2.1"
+msgstr "GOST R 34.12-2015 Kuznyechik CTR-ACPKM"
+
+msgid "1.2.643.7.1.1.5.2.2"
+msgstr "GOST R 34.12-2015 Kuznyechik CTR-ACPKM-OMAC"
+
+msgid "1.2.643.7.1.1.6.1"
+msgstr "GOST R 34.10-2012 DH 256 bit"
+
+msgid "1.2.643.7.1.1.6.2"
+msgstr "GOST R 34.10-2012 DH 512 bit"
+
+msgid "1.2.840.10045.2.1"
+msgstr "ECC"
+
+msgid "1.2.840.10045.3.1.7"
+msgstr "ECDSA_P256 (ECDH_P256)"
+
+msgid "1.2.840.10045.4.1"
+msgstr "sha1ECDSA"
+
+msgid "1.2.840.10045.4.3"
+msgstr "specifiedECDSA"
+
+msgid "1.2.840.10045.4.3.2"
+msgstr "sha256ECDSA"
+
+msgid "1.2.840.10045.4.3.3"
+msgstr "sha384ECDSA"
+
+msgid "1.2.840.10045.4.3.4"
+msgstr "sha512ECDSA"
+
+msgid "1.3.132.0.34"
+msgstr "ECDSA_P384 (ECDH_P384)"
+
+msgid "1.3.132.0.35"
+msgstr "ECDSA_P521 (ECDH_P521)"
+
+msgid "1.2.840.113549.1.9.16.3.5"
+msgstr "ESDH"
+
+msgid "1.2.840.113549.1.9.16.3.6"
+msgstr "CMS3DESwrap"
+
+msgid "1.2.840.113549.1.9.16.3.7"
+msgstr "CMSRC2wrap"
+
+msgid "1.3.6.1.5.5.7.7"
+msgstr "Nepodpísaná žiadosť CMC"
+
+msgid "1.3.6.1.5.5.7.1.3"
+msgstr "Výpisy platných certifikátov"
+
+msgid "1.3.6.1.5.5.7.6.2"
+msgstr "NO_SIGN"
+
+msgid "1.3.6.1.5.5.7.7.1"
+msgstr "Informácie o stave CMC"
+
+msgid "1.3.6.1.5.5.7.7.5"
+msgstr "Identifikácia transakcie"
+
+msgid "1.3.6.1.5.5.7.7.6"
+msgstr "Jednorazový kód odosielateľa"
+
+msgid "1.3.6.1.5.5.7.7.7"
+msgstr "Jednorazový kód príjemcu"
+
+msgid "1.3.6.1.5.5.7.7.8"
+msgstr "Prípony CMC"
+
+msgid "1.3.6.1.5.5.7.7.15"
+msgstr "Načítať certifikát"
+
+msgid "1.3.6.1.5.5.7.7.16"
+msgstr "Načítať zoznam zrušených certifikátov"
+
+msgid "1.3.6.1.5.5.7.7.17"
+msgstr "Žiadosť o zrušenie"
+
+msgid "1.3.6.1.5.5.7.7.18"
+msgstr "Registračné informácie"
+
+msgid "1.3.6.1.5.5.7.7.21"
+msgstr "Čakajúci dotaz"
+
+msgid "1.3.6.1.5.5.7.7.24"
+msgstr "Potvrdiť prijatie certifikátu"
+
+msgid "2.16.840.1.101.3.4.1.5"
+msgstr "aes128wrap"
+
+msgid "2.16.840.1.101.3.4.1.25"
+msgstr "aes192wrap"
+
+msgid "2.16.840.1.101.3.4.1.45"
+msgstr "aes256wrap"
+
+msgid "1.3.133.16.840.63.0.2"
+msgstr "ECDH_STD_SHA1_KDF"
+
+msgid "1.3.132.1.11.1"
+msgstr "ECDH_STD_SHA256_KDF"
+
+msgid "1.3.132.1.11.2"
+msgstr "ECDH_STD_SHA384_KDF"
+

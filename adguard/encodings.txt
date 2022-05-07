@@ -1,0 +1,40 @@
+			Win10 (code page)
+----------------------------------------------------------
+ar						CP1256
+bg			866			CP1251
+cn			936			GB18030
+cs			852			CP1250
+ct			950			BIG5
+da			850			CP1252
+de			850			CP1252
+el			737			CP1253
+en			437			CP1252
+en_GB			850			CP1252
+es			850			CP1252
+es_MX			850			CP1252
+et			775			CP1257
+fi			850			CP1252
+fr			850			CP1252
+fr_CA			850			CP1252
+he			862			CP1255
+hr			852			CP1250
+hu			852			CP1250
+it			850			CP1252
+ja			932			SHIFT-JIS
+ko			949			EUC-KR
+lt			775			CP1257
+lv			775			CP1257
+nb			850			CP1252
+nl			850			CP1252
+pl			852			CP1250
+pp			850			CP1252
+pt			850			CP1252
+ro			852			CP1250
+ru			866			CP1251
+sk			852			CP1250
+sl			852			CP1250
+sr			852			CP1250
+sv			850			CP1252
+th			874			TIS-620
+tr			857			CP1254
+uk			866			CP1251

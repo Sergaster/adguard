@@ -1,0 +1,11 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: oidtdb 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-12-04 09:00+0300\n"
+"Last-Translator: Sergey V. Kostyuk <kostyuk.sergey79@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+

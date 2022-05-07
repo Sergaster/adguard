@@ -1,0 +1,981 @@
+msgid "2.5.4.6"
+msgstr "Land/regio (C)"
+
+msgid "2.5.4.10"
+msgstr "Organisatie (O)"
+
+msgid "2.5.4.11"
+msgstr "Afdeling (OU)"
+
+msgid "2.5.4.3"
+msgstr "Algemene naam (CN)"
+
+msgid "2.5.4.7"
+msgstr "Plaats (L)"
+
+msgid "2.5.4.8"
+msgstr "Provincie (S)"
+
+msgid "2.5.4.43"
+msgstr "Initialen (I)"
+
+msgid "2.5.4.4"
+msgstr "Achternaam (SN)"
+
+msgid "2.5.4.42"
+msgstr "Voornaam (G)"
+
+msgid "2.5.4.12"
+msgstr "Titel (T)"
+
+msgid "2.5.4.46"
+msgstr "dnQualifier"
+
+msgid "2.5.4.65"
+msgstr "Pseudonym"
+
+msgid "2.5.4.17"
+msgstr "PostalCode"
+
+msgid "0.9.2342.19200300.100.1.25"
+msgstr "Domeinonderdeel (DC)"
+
+msgid "1.2.840.113549.1.9.1"
+msgstr "E-mailadres (E)"
+
+msgid "1.3.6.1.5.5.7.3.1"
+msgstr "Serververificatie"
+
+msgid "1.3.6.1.5.5.7.3.2"
+msgstr "Clientverificatie"
+
+msgid "1.3.6.1.5.5.7.3.3"
+msgstr "Handtekening bij programmacode"
+
+msgid "1.3.6.1.4.1.311.20.2.2"
+msgstr "Smartcardaanmelding"
+
+msgid "1.3.6.1.5.5.7.3.4"
+msgstr "E-mail beveiligen"
+
+msgid "1.3.6.1.5.5.7.3.8"
+msgstr "Tijdstempel"
+
+msgid "1.3.6.1.5.5.7.3.9"
+msgstr "Ondertekening van OCSP (OCSP response signing)"
+
+msgid "2.5.29.37.0"
+msgstr "Elk doeleinde"
+
+msgid "1.3.6.1.5.5.7.1.1"
+msgstr "Toegang tot CA-gegevens"
+
+msgid "1.3.6.1.5.5.7.48.1"
+msgstr "Onlinestatus van het certificaat"
+
+msgid "1.3.6.1.5.5.7.48.2"
+msgstr "CA-verlener"
+
+msgid "2.5.29.14"
+msgstr "Identificatie van de onderwerpsleutel"
+
+msgid "2.5.29.15"
+msgstr "Sleutelgebruik"
+
+msgid "2.5.29.16"
+msgstr "Gebruiksperiode van persoonlijke sleutel"
+
+msgid "2.5.29.17"
+msgstr "Alternatieve naam voor onderwerp"
+
+msgid "2.5.29.18"
+msgstr "Alternatieve naam voor verlener"
+
+msgid "2.5.29.19"
+msgstr "Essentiële beperkingen"
+
+msgid "2.5.29.30"
+msgstr "Naambeperkingen"
+
+msgid "2.5.29.31"
+msgstr "CRL-distributiepunten"
+
+msgid "2.5.29.32"
+msgstr "Certificaatbeleid"
+
+msgid "2.5.29.35"
+msgstr "Sleutel-id van CA"
+
+msgid "2.5.29.37"
+msgstr "Uitgebreid sleutelgebruik"
+
+msgid "2.5.29.54"
+msgstr "Elk beleid overslaan"
+
+msgid "2.5.4.5"
+msgstr "Serienummer (SERIALNUMBER)"
+
+msgid "2.5.4.9"
+msgstr "Adres (STREET)"
+
+msgid "2.5.4.13"
+msgstr "Description"
+
+msgid "2.5.4.16"
+msgstr "Postal Address"
+
+msgid "2.5.4.18"
+msgstr "POBox"
+
+msgid "2.5.4.20"
+msgstr "Phone"
+
+msgid "2.5.4.24"
+msgstr "X21Address"
+
+msgid "1.3.6.1.4.1.311.2.1.10"
+msgstr "SpcSpAgencyInfo"
+
+msgid "1.3.6.1.4.1.311.2.1.26"
+msgstr "SpcMinimalCriteria"
+
+msgid "1.3.6.1.4.1.311.2.1.27"
+msgstr "SpcFinancialCriteria"
+
+msgid "1.3.6.1.4.1.311.2.1.14"
+msgstr "Certificaatuitbreidingen"
+
+msgid "1.3.6.1.4.1.311.10.1"
+msgstr "Certificaatvertrouwenslijst"
+
+msgid "1.3.6.1.4.1.311.10.2"
+msgstr "Volgende updatelocatie"
+
+msgid "1.3.6.1.4.1.311.10.3.1"
+msgstr "Microsoft-vertrouwenslijsthandtekening"
+
+msgid "1.3.6.1.4.1.311.10.3.2"
+msgstr "Microsoft Tijdstempel"
+
+msgid "1.3.6.1.4.1.311.10.3.3.1"
+msgstr "Serienummer van handtekening met serienummer"
+
+msgid "1.3.6.1.4.1.311.10.3.4"
+msgstr "Encrypting File System"
+
+msgid "1.3.6.1.4.1.311.10.3.4.1"
+msgstr "Bestandsherstel"
+
+msgid "1.3.6.1.4.1.311.10.3.5"
+msgstr "Controle van Windows-apparaatstuurprogramma's"
+
+msgid "1.3.6.1.4.1.311.10.3.6"
+msgstr "Controle van Windows-systeemonderdelen"
+
+msgid "1.3.6.1.4.1.311.10.3.7"
+msgstr "Controle van Windows-systeemonderdelen voor OEM's"
+
+msgid "1.3.6.1.4.1.311.10.3.8"
+msgstr "Controle van ingesloten Windows-systeemonderdelen"
+
+msgid "1.3.6.1.4.1.311.10.3.9"
+msgstr "Root List Signer (Ondertekenaar van de hoofdlijst)"
+
+msgid "1.3.6.1.4.1.311.10.3.10"
+msgstr "Gekwalificeerde ondergeschiktheid"
+
+msgid "1.3.6.1.4.1.311.10.3.11"
+msgstr "Sleutelherstel"
+
+msgid "1.3.6.1.4.1.311.10.3.12"
+msgstr "Documentondertekening"
+
+msgid "1.3.6.1.4.1.311.10.3.13"
+msgstr "Ondertekening van levensduur"
+
+msgid "1.3.6.1.4.1.311.10.4.1"
+msgstr "Vertrouwen ja of nee"
+
+msgid "1.3.6.1.4.1.311.10.5.1"
+msgstr "Digitale rechten"
+
+msgid "1.3.6.1.4.1.311.10.6.1"
+msgstr "Sleutelpakketlicenties"
+
+msgid "1.3.6.1.4.1.311.10.6.2"
+msgstr "Controle van licentieserver"
+
+msgid "1.3.6.1.4.1.311.10.9.1"
+msgstr "Distributiepunten tussen certificaten"
+
+msgid "1.3.6.1.4.1.311.10.10.1"
+msgstr "CMC-kenmerken"
+
+msgid "1.3.6.1.4.1.311.10.12.1"
+msgstr "Alle beleidsregels voor toepassingen"
+
+msgid "1.3.6.1.4.1.311.13.2.1"
+msgstr "Waardepaar voor inschrijvingsnaam"
+
+msgid "1.3.6.1.4.1.311.13.2.2"
+msgstr "Cryptografieprovider voor inschrijving"
+
+msgid "1.3.6.1.4.1.311.20.1"
+msgstr "CTL Usage (Gebruik van certificaatintrekkingslijst)"
+
+msgid "1.3.6.1.4.1.311.20.2"
+msgstr "Certificaatsjabloonnaam (Type certificaat)"
+
+msgid "1.3.6.1.4.1.311.20.2.1"
+msgstr "Certificaataanvraagagent"
+
+msgid "1.3.6.1.4.1.311.20.2.3"
+msgstr "Principal-naam"
+
+msgid "1.3.6.1.4.1.311.20.3"
+msgstr "Meervoudige certificaten"
+
+msgid "1.3.6.1.4.1.311.21.1"
+msgstr "CA-versie"
+
+msgid "1.3.6.1.4.1.311.21.2"
+msgstr "Vorige hash van CA-certificaat"
+
+msgid "1.3.6.1.4.1.311.21.3"
+msgstr "Virtueel basis-CRL-nummer"
+
+msgid "1.3.6.1.4.1.311.21.4"
+msgstr "Volgende publicatie van CRL"
+
+msgid "1.3.6.1.4.1.311.21.5"
+msgstr "Archivering van persoonlijke sleutels"
+
+msgid "1.3.6.1.4.1.311.21.6"
+msgstr "Sleutelherstelagent"
+
+msgid "1.3.6.1.4.1.311.21.7"
+msgstr "Sjabloongegevens voor certificaat"
+
+msgid "1.3.6.1.4.1.311.21.8"
+msgstr "Hoofd-OID voor onderneming"
+
+msgid "1.3.6.1.4.1.311.21.9"
+msgstr "Dummyondertekenaar"
+
+msgid "1.3.6.1.4.1.311.21.10"
+msgstr "Toepassingsbeleid"
+
+msgid "1.3.6.1.4.1.311.21.11"
+msgstr "Toepassingsbeleidskoppelingen"
+
+msgid "1.3.6.1.4.1.311.21.12"
+msgstr "Beperkingen van toepassingsbeleid"
+
+msgid "1.3.6.1.4.1.311.25.1"
+msgstr "GUID van directoryserviceobject"
+
+msgid "1.3.6.1.4.1.311.31.1"
+msgstr "Update voor Windows-product"
+
+msgid "1.3.6.1.4.1.311.44.3.4"
+msgstr "Peer-to-peer-vertrouwensrelatie"
+
+msgid "1.3.6.1.4.1.311.47.1.1"
+msgstr "Verificatie van systeemstatus"
+
+msgid "1.3.6.1.4.1.311.64.1.1"
+msgstr "Vertrouwensrelatie voor DNS-server (Domain Name System)"
+
+msgid "1.3.6.1.4.1.311.67.1.1"
+msgstr "BitLocker-stationsversleuteling"
+
+msgid "1.3.6.1.4.1.311.67.1.2"
+msgstr "Gegevensherstelagent van BitLocker"
+
+msgid "1.3.6.1.4.1.311.76.6.1"
+msgstr "Windows Update"
+
+msgid "1.2.840.10040.4.1"
+msgstr "DSA"
+
+msgid "1.2.840.10040.4.3"
+msgstr "sha1DSA"
+
+msgid "1.2.840.113549.1.1.1"
+msgstr "RSA (RSA_SIGN)"
+
+msgid "1.2.840.113549.1.1.2"
+msgstr "md2RSA"
+
+msgid "1.2.840.113549.1.1.3"
+msgstr "md4RSA"
+
+msgid "1.2.840.113549.1.1.4"
+msgstr "md5RSA"
+
+msgid "1.2.840.113549.1.1.5"
+msgstr "sha1RSA"
+
+msgid "1.2.840.113549.1.1.7"
+msgstr "RSAES_OAEP"
+
+msgid "1.2.840.113549.1.1.8"
+msgstr "mgf1"
+
+msgid "1.2.840.113549.1.1.10"
+msgstr "RSASSA-PSS"
+
+msgid "1.2.840.113549.1.1.11"
+msgstr "sha256RSA"
+
+msgid "1.2.840.113549.1.1.12"
+msgstr "sha384RSA"
+
+msgid "1.2.840.113549.1.1.13"
+msgstr "sha512RSA"
+
+msgid "1.2.840.113549.1.3.1"
+msgstr "DH"
+
+msgid "1.2.840.113549.1.7.1"
+msgstr "PKCS 7-gegevens"
+
+msgid "1.2.840.113549.1.7.2"
+msgstr "PKCS 7-ondertekend"
+
+msgid "1.2.840.113549.1.7.3"
+msgstr "PKCS 7-ingepakt"
+
+msgid "1.2.840.113549.1.7.4"
+msgstr "PKCS 7-ondertekend en -ingepakt"
+
+msgid "1.2.840.113549.1.7.5"
+msgstr "PKCS 7-verwerkt"
+
+msgid "1.2.840.113549.1.7.6"
+msgstr "Met PKCS 7 versleuteld"
+
+msgid "1.2.840.113549.1.9.2"
+msgstr "Niet-gestructureerde naam"
+
+msgid "1.2.840.113549.1.9.3"
+msgstr "Type inhoud"
+
+msgid "1.2.840.113549.1.9.4"
+msgstr "Distributielijst"
+
+msgid "1.2.840.113549.1.9.5"
+msgstr "Tijdstip van handtekening"
+
+msgid "1.2.840.113549.1.9.6"
+msgstr "Controlehandtekening"
+
+msgid "1.2.840.113549.1.9.7"
+msgstr "Wachtwoordcontrole"
+
+msgid "1.2.840.113549.1.9.8"
+msgstr "Niet-gestructureerd adres"
+
+msgid "1.2.840.113549.1.9.14"
+msgstr "Certificaatuitbreidingen"
+
+msgid "1.2.840.113549.1.9.15"
+msgstr "SMIME-mogelijkheden"
+
+msgid "1.2.840.113549.2.2"
+msgstr "md2"
+
+msgid "1.2.840.113549.2.4"
+msgstr "md4"
+
+msgid "1.2.840.113549.2.5"
+msgstr "md5 (md5NoSign)"
+
+msgid "1.2.840.113549.3.2"
+msgstr "rc2"
+
+msgid "1.2.840.113549.3.4"
+msgstr "rc4"
+
+msgid "1.2.840.113549.3.7"
+msgstr "3des"
+
+msgid "1.3.6.1.5.5.7.1.2"
+msgstr "Biometrisch"
+
+msgid "1.3.6.1.5.5.7.1.11"
+msgstr "Toegang tot onderwerpinformatie (Subject Information Access)"
+
+msgid "1.3.6.1.5.5.7.2.1"
+msgstr "CPS"
+
+msgid "1.3.6.1.5.5.7.2.2"
+msgstr "Melden aan gebruiker"
+
+msgid "1.3.6.1.5.5.7.3.5"
+msgstr "Eindsysteem van IP-beveiliging"
+
+msgid "1.3.6.1.5.5.7.3.6"
+msgstr "Beëindiging van de IP-beveiligingstunnel"
+
+msgid "1.3.6.1.5.5.7.3.7"
+msgstr "IP-beveiligingsgebruiker"
+
+msgid "1.3.6.1.5.5.7.48.5"
+msgstr "Certificaatopslag"
+
+msgid "1.3.6.1.5.5.7.48.1.5"
+msgstr "OCSP - geen controle op intrekken (id-pkix-ocsp-nocheck)"
+
+msgid "1.3.14.3.2.3"
+msgstr "md5RSA"
+
+msgid "1.3.14.3.2.7"
+msgstr "des"
+
+msgid "1.3.14.3.2.12"
+msgstr "DSA (DSA_SIGN)"
+
+msgid "1.3.14.3.2.13"
+msgstr "sha1DSA (shaDSA)"
+
+msgid "1.3.14.3.2.15"
+msgstr "shaRSA"
+
+msgid "1.3.14.3.2.18"
+msgstr "sha"
+
+msgid "1.3.14.3.2.26"
+msgstr "sha1 (sha1NoSign)"
+
+msgid "1.3.14.3.2.27"
+msgstr "dsaSHA1"
+
+msgid "1.3.14.3.2.29"
+msgstr "sha1RSA (shaRSA)"
+
+msgid "2.5.29.20"
+msgstr "CRL-nummer"
+
+msgid "2.5.29.21"
+msgstr "CRL-redencode"
+
+msgid "2.5.29.27"
+msgstr "Delta-CRL-indicator"
+
+msgid "2.5.29.28"
+msgstr "Distributiepunt uitgeven"
+
+msgid "2.5.29.32.0"
+msgstr "Alle uitgiftebeleidsregels"
+
+msgid "2.5.29.33"
+msgstr "Beleidskoppelingen"
+
+msgid "2.5.29.36"
+msgstr "Beleidsbeperkingen"
+
+msgid "2.5.29.46"
+msgstr "Meest recente CRL"
+
+msgid "2.16.840.1.113730.1.1"
+msgstr "Netscape-certificaattype"
+
+msgid "2.16.840.1.113730.1.2"
+msgstr "Basis-URL voor Netscape"
+
+msgid "2.16.840.1.113730.1.3"
+msgstr "Intrekkings-URL voor Netscape"
+
+msgid "2.16.840.1.113730.1.4"
+msgstr "Intrekkings-URL voor Netscape-certificeringsinstanties"
+
+msgid "2.16.840.1.113730.1.7"
+msgstr "Vernieuwings-URL voor Netscape-certificaten"
+
+msgid "2.16.840.1.113730.1.8"
+msgstr "Beleids-URL voor Netscape-certificeringsinstanties"
+
+msgid "2.16.840.1.113730.1.12"
+msgstr "Netscape SSL-servernaam"
+
+msgid "2.16.840.1.113730.1.13"
+msgstr "Opmerking bij Netscape"
+
+msgid "2.16.840.1.101.3.4.1.2"
+msgstr "aes128"
+
+msgid "2.16.840.1.101.3.4.1.22"
+msgstr "aes192"
+
+msgid "2.16.840.1.101.3.4.1.42"
+msgstr "aes256"
+
+msgid "2.16.840.1.101.3.4.2.1"
+msgstr "sha256 (sha256NoSign)"
+
+msgid "2.16.840.1.101.3.4.2.2"
+msgstr "sha384 (sha384NoSign)"
+
+msgid "2.16.840.1.101.3.4.2.3"
+msgstr "sha512 (sha512NoSign)"
+
+msgid "1.2.643.2.2.3"
+msgstr "GOST R 34.11/34.10-2001"
+
+msgid "1.2.643.2.2.9"
+msgstr "GOST R 34.11-94"
+
+msgid "1.2.643.2.2.19"
+msgstr "GOST R 34.10-2001"
+
+msgid "1.2.643.2.2.21"
+msgstr "GOST 28147-89"
+
+msgid "1.2.643.2.2.98"
+msgstr "GOST R 34.10-2001 DH"
+
+msgid "1.2.643.7.1.1.1.1"
+msgstr "GOST R 34.10-2012 256 bit"
+
+msgid "1.2.643.7.1.1.1.2"
+msgstr "GOST R 34.10-2012 512 bit"
+
+msgid "1.2.643.7.1.1.2.2"
+msgstr "GOST R 34.11-2012 256 bit"
+
+msgid "1.2.643.7.1.1.2.3"
+msgstr "GOST R 34.11-2012 512 bit"
+
+msgid "1.2.643.7.1.1.3.2"
+msgstr "GOST R 34.11-2012/34.10-2012 256 bit"
+
+msgid "1.2.643.7.1.1.3.3"
+msgstr "GOST R 34.11-2012/34.10-2012 512 bit"
+
+msgid "1.2.643.7.1.2.1.1.1"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 A"
+
+msgid "1.2.643.7.1.2.1.1.2"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 B"
+
+msgid "1.2.643.7.1.2.1.1.3"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 C"
+
+msgid "1.2.643.7.1.2.1.1.4"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 D"
+
+msgid "1.2.643.7.1.2.1.2.1"
+msgstr "GOST R 34.10-2012 512 bit, default parameters"
+
+msgid "1.2.643.7.1.2.1.2.2"
+msgstr "GOST R 34.10-2012 512 bit, parameters TC26 B"
+
+msgid "1.2.643.7.1.2.1.2.3"
+msgstr "GOST R 34.10-2012 512 bit, parameters TC26 C"
+
+msgid "1.2.643.7.1.2.5.1.1"
+msgstr "GOST 28147-89, cipher parameters TC26 Z"
+
+msgid "1.2.643.3.131.1.1"
+msgstr "INN"
+
+msgid "1.2.643.100.1"
+msgstr "OGRN"
+
+msgid "1.2.643.100.3"
+msgstr "SNILS"
+
+msgid "1.2.643.100.111"
+msgstr "Subject sign tool"
+
+msgid "1.2.643.100.112"
+msgstr "Issuer sign tool"
+
+msgid "1.2.840.10046.2.1"
+msgstr "DH"
+
+msgid "1.3.6.1.5.2.3.5"
+msgstr "KDC-verificatie"
+
+msgid "1.3.6.1.5.5.7.12.2"
+msgstr "CMC-gegevens"
+
+msgid "1.3.6.1.5.5.7.12.3"
+msgstr "CMC-antwoord"
+
+msgid "2.5.29.1"
+msgstr "Sleutel-id van CA"
+
+msgid "2.5.29.2"
+msgstr "Sleutelkenmerken"
+
+msgid "2.5.29.4"
+msgstr "Beperking voor sleutelgebruik"
+
+msgid "2.5.29.7"
+msgstr "Alternatieve naam voor onderwerp"
+
+msgid "2.5.29.8"
+msgstr "Alternatieve naam voor verlener"
+
+msgid "2.5.29.10"
+msgstr "Essentiële beperkingen"
+
+msgid "1.2.643.2.2.34.1"
+msgstr "TLS traffic audit"
+
+msgid "1.2.643.2.2.34.2"
+msgstr "Registration Authority temporary access"
+
+msgid "1.2.643.2.2.34.3"
+msgstr "Internet server content signature"
+
+msgid "1.2.643.2.2.34.4"
+msgstr "Registration Authority administrator"
+
+msgid "1.2.643.2.2.34.5"
+msgstr "Registration Authority operator"
+
+msgid "1.2.643.2.2.34.6"
+msgstr "Registration Authority user, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.7"
+msgstr "Registration Authority, CryptoPro RA, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.8"
+msgstr "CryptoPro RA, HTTP, TLS server"
+
+msgid "1.2.643.2.2.34.9"
+msgstr "CryptoPro RA, System administrator"
+
+msgid "1.2.643.2.2.34.10"
+msgstr "CryptoPro RA, Backup copy administrator"
+
+msgid "1.2.643.2.2.34.11"
+msgstr "CryptoPro CA, Authorized person"
+
+msgid "1.2.643.2.2.34.12"
+msgstr "CryptoPro CA, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.13"
+msgstr "CryptoPro CA, System administrator"
+
+msgid "1.2.643.2.2.34.14"
+msgstr "CryptoPro CA, Backup copy administrator"
+
+msgid "1.2.643.2.2.34.15"
+msgstr "CryptoPro, CA access, IPSec server"
+
+msgid "1.2.643.2.2.34.16"
+msgstr "CryptoPro HSM Audit Administrator"
+
+msgid "1.2.643.2.2.34.21"
+msgstr "CryptoPro HSM Administrator"
+
+msgid "1.2.643.2.2.34.22"
+msgstr "CryptoPro HSM Server Administrator"
+
+msgid "1.2.643.2.2.34.24"
+msgstr "CryptoPro CA, Domain Controller (Winlogon)"
+
+msgid "1.2.643.2.2.34.25"
+msgstr "TSP Server Client"
+
+msgid "1.2.643.2.2.34.26"
+msgstr "OCSP Server Client"
+
+msgid "1.2.643.2.2.34.27"
+msgstr "CryptoPro HSM Backup Administrator"
+
+msgid "1.2.643.2.2.34.28"
+msgstr "CryptoPro HSM Auditor"
+
+msgid "1.2.643.2.2.37.3.1"
+msgstr "CryptoPro CSP private keys extension. Intermediate store"
+
+msgid "1.2.643.2.2.37.3.2"
+msgstr "CryptoPro CSP private keys extension. Signature trust store"
+
+msgid "1.2.643.2.2.37.3.3"
+msgstr "CryptoPro CSP private keys extension. Exchange trust store"
+
+msgid "1.2.643.2.2.49.2"
+msgstr "Crypto-Pro restricted license"
+
+msgid "1.2.643.100.113.1"
+msgstr "Electronic signature tool KC1"
+
+msgid "1.2.643.100.113.2"
+msgstr "Electronic signature tool KC2"
+
+msgid "1.2.643.100.113.3"
+msgstr "Electronic signature tool KC3"
+
+msgid "1.2.643.100.113.4"
+msgstr "Electronic signature tool KB1"
+
+msgid "1.2.643.100.113.5"
+msgstr "Electronic signature tool KB2"
+
+msgid "1.2.643.100.113.6"
+msgstr "Electronic signature tool KA1"
+
+msgid "1.2.643.100.114.1"
+msgstr "CA electronic signature tool KC1"
+
+msgid "1.2.643.100.114.2"
+msgstr "CA electronic signature tool KC2"
+
+msgid "1.2.643.100.114.3"
+msgstr "CA electronic signature tool KC3"
+
+msgid "1.2.643.100.114.4"
+msgstr "CA electronic signature tool KB1"
+
+msgid "1.2.643.100.114.5"
+msgstr "CA electronic signature tool KB2"
+
+msgid "1.2.643.100.114.6"
+msgstr "CA electronic signature tool KA1"
+
+msgid "1.3.6.1.4.1.311.13.2.3"
+msgstr "Versie van besturingssysteem"
+
+msgid "1.3.6.1.4.1.311.21.13"
+msgstr "Versleutelde persoonlijke sleutel"
+
+msgid "1.3.6.1.4.1.311.21.14"
+msgstr "Uitgegeven CRL-locaties"
+
+msgid "1.3.6.1.4.1.311.21.15"
+msgstr "Kettingbeleid voor certificaat forceren"
+
+msgid "1.3.6.1.4.1.311.21.16"
+msgstr "Gearchiveerde sleutelcertificaathash"
+
+msgid "1.3.6.1.4.1.311.21.19"
+msgstr "E-mailreplicatie door directoryservice"
+
+msgid "1.3.6.1.4.1.311.21.20"
+msgstr "Clientgegevens"
+
+msgid "1.3.6.1.4.1.311.21.22"
+msgstr "Versie van kruiselings CA"
+
+msgid "1.3.6.1.5.5.8.2.2"
+msgstr "IKE-tussenliggende IP-beveiliging"
+
+msgid "1.2.840.113549.1.9.15.1"
+msgstr "Gegevens met handtekening prefereren"
+
+msgid "1.2.643.100.5"
+msgstr "OGRNIP"
+
+msgid "1.2.643.2.2.30.0"
+msgstr "GOST R 34.11-94, test parameters"
+
+msgid "1.2.643.2.2.30.1"
+msgstr "GOST R 34.11-94, default parameters"
+
+msgid "1.2.643.2.2.30.2"
+msgstr "GOST R 34.11-94, hash parameters 1"
+
+msgid "1.2.643.2.2.30.3"
+msgstr "GOST R 34.11-94, hash parameters 2"
+
+msgid "1.2.643.2.2.30.4"
+msgstr "GOST R 34.11-94, hash parameters 3"
+
+msgid "1.2.643.2.2.31.0"
+msgstr "GOST 28147-89, test parameters"
+
+msgid "1.2.643.2.2.31.1"
+msgstr "GOST 28147-89, default parameters"
+
+msgid "1.2.643.2.2.31.12"
+msgstr "GOST 28147-89, cipher parameters TC26 A"
+
+msgid "1.2.643.2.2.31.13"
+msgstr "GOST 28147-89, cipher parameters TC26 B"
+
+msgid "1.2.643.2.2.31.14"
+msgstr "GOST 28147-89, cipher parameters TC26 C"
+
+msgid "1.2.643.2.2.31.15"
+msgstr "GOST 28147-89, cipher parameters TC26 D"
+
+msgid "1.2.643.2.2.31.16"
+msgstr "GOST 28147-89, cipher parameters TC26 E"
+
+msgid "1.2.643.2.2.31.17"
+msgstr "GOST 28147-89, cipher parameters TC26 F"
+
+msgid "1.2.643.2.2.31.2"
+msgstr "GOST 28147-89, cipher parameters 1"
+
+msgid "1.2.643.2.2.31.3"
+msgstr "GOST 28147-89, cipher parameters 2"
+
+msgid "1.2.643.2.2.31.4"
+msgstr "GOST 28147-89, cipher parameters 3"
+
+msgid "1.2.643.2.2.31.5"
+msgstr "GOST 28147-89, Oscar 1.1 parameters"
+
+msgid "1.2.643.2.2.31.6"
+msgstr "GOST 28147-89, Oscar 1.0 parameters"
+
+msgid "1.2.643.2.2.31.7"
+msgstr "GOST 28147-89, RIC 1 parameters"
+
+msgid "1.2.643.2.2.35.0"
+msgstr "GOST R 34.10 256 bit, test parameters"
+
+msgid "1.2.643.2.2.35.1"
+msgstr "GOST R 34.10 256 bit, default parameters"
+
+msgid "1.2.643.2.2.35.2"
+msgstr "GOST R 34.10 256 bit, Oscar 2.x parameters"
+
+msgid "1.2.643.2.2.35.3"
+msgstr "GOST R 34.10 256 bit, signature parameters 1"
+
+msgid "1.2.643.2.2.36.0"
+msgstr "GOST R 34.10 256 bit, default exchange parameters"
+
+msgid "1.2.643.2.2.36.1"
+msgstr "GOST R 34.10 256 bit, exchange parameters 1"
+
+msgid "1.2.643.2.2.37.3.10"
+msgstr "CryptoPro CSP private keys extension. Exchange key usage period"
+
+msgid "1.2.643.2.2.37.3.11"
+msgstr "CryptoPro CSP private keys extension. Private key time validity control mode"
+
+msgid "1.2.643.2.2.37.3.9"
+msgstr "CryptoPro CSP private keys extension. Signature key usage period"
+
+msgid "1.2.643.2.2.38.1"
+msgstr "Personal registration base policy"
+
+msgid "1.2.643.2.2.38.2"
+msgstr "Network registration base policy"
+
+msgid "1.2.643.2.2.96"
+msgstr "GOST R 34.10-2001 ESDH"
+
+msgid "1.2.643.7.1.1.5.1.1"
+msgstr "GOST R 34.12-2015 Magma CTR-ACPKM"
+
+msgid "1.2.643.7.1.1.5.1.2"
+msgstr "GOST R 34.12-2015 Magma CTR-ACPKM-OMAC"
+
+msgid "1.2.643.7.1.1.5.2.1"
+msgstr "GOST R 34.12-2015 Kuznyechik CTR-ACPKM"
+
+msgid "1.2.643.7.1.1.5.2.2"
+msgstr "GOST R 34.12-2015 Kuznyechik CTR-ACPKM-OMAC"
+
+msgid "1.2.643.7.1.1.6.1"
+msgstr "GOST R 34.10-2012 DH 256 bit"
+
+msgid "1.2.643.7.1.1.6.2"
+msgstr "GOST R 34.10-2012 DH 512 bit"
+
+msgid "1.2.840.10045.2.1"
+msgstr "ECC"
+
+msgid "1.2.840.10045.3.1.7"
+msgstr "ECDSA_P256 (ECDH_P256)"
+
+msgid "1.2.840.10045.4.1"
+msgstr "sha1ECDSA"
+
+msgid "1.2.840.10045.4.3"
+msgstr "specifiedECDSA"
+
+msgid "1.2.840.10045.4.3.2"
+msgstr "sha256ECDSA"
+
+msgid "1.2.840.10045.4.3.3"
+msgstr "sha384ECDSA"
+
+msgid "1.2.840.10045.4.3.4"
+msgstr "sha512ECDSA"
+
+msgid "1.3.132.0.34"
+msgstr "ECDSA_P384 (ECDH_P384)"
+
+msgid "1.3.132.0.35"
+msgstr "ECDSA_P521 (ECDH_P521)"
+
+msgid "1.2.840.113549.1.9.16.3.5"
+msgstr "ESDH"
+
+msgid "1.2.840.113549.1.9.16.3.6"
+msgstr "CMS3DESwrap"
+
+msgid "1.2.840.113549.1.9.16.3.7"
+msgstr "CMSRC2wrap"
+
+msgid "1.3.6.1.5.5.7.7"
+msgstr "Niet-ondertekende CMC-aanvraag"
+
+msgid "1.3.6.1.5.5.7.1.3"
+msgstr "Gekwalificeerde certificaatverklaringen"
+
+msgid "1.3.6.1.5.5.7.6.2"
+msgstr "NO_SIGN"
+
+msgid "1.3.6.1.5.5.7.7.1"
+msgstr "CMC-statusinformatie"
+
+msgid "1.3.6.1.5.5.7.7.5"
+msgstr "Transactie-id"
+
+msgid "1.3.6.1.5.5.7.7.6"
+msgstr "Nonce-afzender"
+
+msgid "1.3.6.1.5.5.7.7.7"
+msgstr "Nonce-ontvanger"
+
+msgid "1.3.6.1.5.5.7.7.8"
+msgstr "CMC-extensies"
+
+msgid "1.3.6.1.5.5.7.7.15"
+msgstr "Certificaat ophalen"
+
+msgid "1.3.6.1.5.5.7.7.16"
+msgstr "CRL opvragen"
+
+msgid "1.3.6.1.5.5.7.7.17"
+msgstr "Aanvraag intrekken"
+
+msgid "1.3.6.1.5.5.7.7.18"
+msgstr "Registreergegevens"
+
+msgid "1.3.6.1.5.5.7.7.21"
+msgstr "Query in behandeling"
+
+msgid "1.3.6.1.5.5.7.7.24"
+msgstr "Accepteren van certificaat bevestigen"
+
+msgid "2.16.840.1.101.3.4.1.5"
+msgstr "aes128wrap"
+
+msgid "2.16.840.1.101.3.4.1.25"
+msgstr "aes192wrap"
+
+msgid "2.16.840.1.101.3.4.1.45"
+msgstr "aes256wrap"
+
+msgid "1.3.133.16.840.63.0.2"
+msgstr "ECDH_STD_SHA1_KDF"
+
+msgid "1.3.132.1.11.1"
+msgstr "ECDH_STD_SHA256_KDF"
+
+msgid "1.3.132.1.11.2"
+msgstr "ECDH_STD_SHA384_KDF"
+

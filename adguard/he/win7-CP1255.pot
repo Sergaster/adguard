@@ -1,0 +1,981 @@
+msgid "2.5.4.6"
+msgstr "מדינה‏/אזור (C)"
+
+msgid "2.5.4.10"
+msgstr "ארגון (O)"
+
+msgid "2.5.4.11"
+msgstr "יחידה ארגונית (OU)"
+
+msgid "2.5.4.3"
+msgstr "שם מקובל (CN)"
+
+msgid "2.5.4.7"
+msgstr "סביבה (L)"
+
+msgid "2.5.4.8"
+msgstr "מדינה או מחוז (S)"
+
+msgid "2.5.4.43"
+msgstr "ראשי תיבות (I)"
+
+msgid "2.5.4.4"
+msgstr "שם משפחה (SN)"
+
+msgid "2.5.4.42"
+msgstr "שם פרטי (G)"
+
+msgid "2.5.4.12"
+msgstr "תואר (T)"
+
+msgid "2.5.4.46"
+msgstr "dnQualifier"
+
+msgid "2.5.4.65"
+msgstr "Pseudonym"
+
+msgid "2.5.4.17"
+msgstr "PostalCode"
+
+msgid "0.9.2342.19200300.100.1.25"
+msgstr "רכיב תחום (DC)"
+
+msgid "1.2.840.113549.1.9.1"
+msgstr "‏‏כתובת דואר אלקטרוני (E)"
+
+msgid "1.3.6.1.5.5.7.3.1"
+msgstr "אימות שרת"
+
+msgid "1.3.6.1.5.5.7.3.2"
+msgstr "אימות לקוח"
+
+msgid "1.3.6.1.5.5.7.3.3"
+msgstr "חתימת קוד"
+
+msgid "1.3.6.1.4.1.311.20.2.2"
+msgstr "כניסה של כרטיס חכם"
+
+msgid "1.3.6.1.5.5.7.3.4"
+msgstr "דואר אלקטרוני מאובטח"
+
+msgid "1.3.6.1.5.5.7.3.8"
+msgstr "‏‏הטבעת חותמת זמן"
+
+msgid "1.3.6.1.5.5.7.3.9"
+msgstr "OCSP - חתימה (OCSP response signing)"
+
+msgid "2.5.29.37.0"
+msgstr "כל מטרה"
+
+msgid "1.3.6.1.5.5.7.1.1"
+msgstr "‏‏גישה למידע הרשות"
+
+msgid "1.3.6.1.5.5.7.48.1"
+msgstr "‏‏פרוטוקול של מצב אישור מקוון"
+
+msgid "1.3.6.1.5.5.7.48.2"
+msgstr "‏‏מנפיק של רשות אישורים"
+
+msgid "2.5.29.14"
+msgstr "‏‏מזהה המפתח של נושא"
+
+msgid "2.5.29.15"
+msgstr "‏‏שימוש במפתח"
+
+msgid "2.5.29.16"
+msgstr "תקופת שימוש מפתח פרטי"
+
+msgid "2.5.29.17"
+msgstr "‏‏שם חלופי של נושא"
+
+msgid "2.5.29.18"
+msgstr "‏‏שם חלופי של המנפיק"
+
+msgid "2.5.29.19"
+msgstr "‏‏מגבלות בסיסיות"
+
+msgid "2.5.29.30"
+msgstr "אילוצי שם"
+
+msgid "2.5.29.31"
+msgstr "‏‏נקודות הפצה של רשימות ביטול אישורים"
+
+msgid "2.5.29.32"
+msgstr "‏‏רכיבי מדיניות אישורים"
+
+msgid "2.5.29.35"
+msgstr "‏‏מזהה מפתח של הרשות"
+
+msgid "2.5.29.37"
+msgstr "‏‏שימוש במפתח משופר"
+
+msgid "2.5.29.54"
+msgstr "מנע כל מדיניות"
+
+msgid "2.5.4.5"
+msgstr "מספר סידורי (SERIALNUMBER)"
+
+msgid "2.5.4.9"
+msgstr "כתובת (STREET)"
+
+msgid "2.5.4.13"
+msgstr "Description"
+
+msgid "2.5.4.16"
+msgstr "Postal Address"
+
+msgid "2.5.4.18"
+msgstr "POBox"
+
+msgid "2.5.4.20"
+msgstr "Phone"
+
+msgid "2.5.4.24"
+msgstr "X21Address"
+
+msgid "1.3.6.1.4.1.311.2.1.10"
+msgstr "SpcSpAgencyInfo"
+
+msgid "1.3.6.1.4.1.311.2.1.26"
+msgstr "SpcMinimalCriteria"
+
+msgid "1.3.6.1.4.1.311.2.1.27"
+msgstr "SpcFinancialCriteria"
+
+msgid "1.3.6.1.4.1.311.2.1.14"
+msgstr "‏‏תוספות של אישורים"
+
+msgid "1.3.6.1.4.1.311.10.1"
+msgstr "רשימת אישורים אמינים"
+
+msgid "1.3.6.1.4.1.311.10.2"
+msgstr "‏‏מיקום העדכון הבא"
+
+msgid "1.3.6.1.4.1.311.10.3.1"
+msgstr "‏‏חתימת רשימת יחסי אמון של Microsoft‏"
+
+msgid "1.3.6.1.4.1.311.10.3.2"
+msgstr "‏‏הטבעת חותמת זמן של Microsoft‏"
+
+msgid "1.3.6.1.4.1.311.10.3.3.1"
+msgstr "מספר סידורי של חתימה טורית"
+
+msgid "1.3.6.1.4.1.311.10.3.4"
+msgstr "מערכת קבצים מצפינה"
+
+msgid "1.3.6.1.4.1.311.10.3.4.1"
+msgstr "שחזור קובץ"
+
+msgid "1.3.6.1.4.1.311.10.3.5"
+msgstr "‏‏אימות מנהל התקן חומרה של Windows"
+
+msgid "1.3.6.1.4.1.311.10.3.6"
+msgstr "‏‏אימות רכיב מערכת של Windows"
+
+msgid "1.3.6.1.4.1.311.10.3.7"
+msgstr "‏‏אימות רכיב מערכת OEM של Windows"
+
+msgid "1.3.6.1.4.1.311.10.3.8"
+msgstr "‏‏אימות רכיב מערכת Embedded Windows"
+
+msgid "1.3.6.1.4.1.311.10.3.9"
+msgstr "Root List Signer (‏‏חותם רשימה של הבסיס)"
+
+msgid "1.3.6.1.4.1.311.10.3.10"
+msgstr "שיעבוד מוגדר"
+
+msgid "1.3.6.1.4.1.311.10.3.11"
+msgstr "שחזור מפתח"
+
+msgid "1.3.6.1.4.1.311.10.3.12"
+msgstr "חתימה על מסמכים"
+
+msgid "1.3.6.1.4.1.311.10.3.13"
+msgstr "‏‏חתימה לכל החיים"
+
+msgid "1.3.6.1.4.1.311.10.4.1"
+msgstr "‏‏יחסי אמון קיימים או אינם קיימים"
+
+msgid "1.3.6.1.4.1.311.10.5.1"
+msgstr "זכויות דיגיטליות"
+
+msgid "1.3.6.1.4.1.311.10.6.1"
+msgstr "רשיונות חבילת מפתחות"
+
+msgid "1.3.6.1.4.1.311.10.6.2"
+msgstr "אימות שרת רשיונות"
+
+msgid "1.3.6.1.4.1.311.10.9.1"
+msgstr "נקודות הפצה של אישורים צולבים"
+
+msgid "1.3.6.1.4.1.311.10.10.1"
+msgstr "‏‏תכונות פרוטוקול ניהול אישורים CMC"
+
+msgid "1.3.6.1.4.1.311.10.12.1"
+msgstr "‏‏כל רכיבי המדיניות של יישומים"
+
+msgid "1.3.6.1.4.1.311.13.2.1"
+msgstr "זוג ערכים של שם הרשמה"
+
+msgid "1.3.6.1.4.1.311.13.2.2"
+msgstr "ספק שירותי הצפנה (CSP) עבור הרשמה"
+
+msgid "1.3.6.1.4.1.311.20.1"
+msgstr "CTL Usage (שימוש ב- CTL)"
+
+msgid "1.3.6.1.4.1.311.20.2"
+msgstr "שם תבנית האישורים (סוג האישור)"
+
+msgid "1.3.6.1.4.1.311.20.2.1"
+msgstr "סוכן בקשות אישורים"
+
+msgid "1.3.6.1.4.1.311.20.2.3"
+msgstr "שם עיקרי"
+
+msgid "1.3.6.1.4.1.311.20.3"
+msgstr "שכפול של האישור"
+
+msgid "1.3.6.1.4.1.311.21.1"
+msgstr "גרסת רשות אישורים"
+
+msgid "1.3.6.1.4.1.311.21.2"
+msgstr "קוד ‏‏Hash עבור אישור קודם של רשות אישורים"
+
+msgid "1.3.6.1.4.1.311.21.3"
+msgstr "‏‏מספר וירטואלי של רשימת ביטול אישורים של הבסיס"
+
+msgid "1.3.6.1.4.1.311.21.4"
+msgstr "‏‏הפרסום הבא של רשימת ביטול אישורים"
+
+msgid "1.3.6.1.4.1.311.21.5"
+msgstr "מפתח פרטי של ארכיון"
+
+msgid "1.3.6.1.4.1.311.21.6"
+msgstr "סוכן שחזור מפתח (סוכן שחזור מפתחות)"
+
+msgid "1.3.6.1.4.1.311.21.7"
+msgstr "נתוני תבנית אישורים"
+
+msgid "1.3.6.1.4.1.311.21.8"
+msgstr "‏‏מזהה אובייקט של הבסיס של Enterprise"
+
+msgid "1.3.6.1.4.1.311.21.9"
+msgstr "חותם דמה"
+
+msgid "1.3.6.1.4.1.311.21.10"
+msgstr "מדיניות יישום"
+
+msgid "1.3.6.1.4.1.311.21.11"
+msgstr "מיפויי מדיניות יישום"
+
+msgid "1.3.6.1.4.1.311.21.12"
+msgstr "אילוצי מדיניות יישום"
+
+msgid "1.3.6.1.4.1.311.25.1"
+msgstr "Guid של אובייקט DS"
+
+msgid "1.3.6.1.4.1.311.31.1"
+msgstr "עדכון מוצר Windows"
+
+msgid "1.3.6.1.4.1.311.44.3.4"
+msgstr "אמון עמית לעמית"
+
+msgid "1.3.6.1.4.1.311.47.1.1"
+msgstr "אימות תקינות מערכת"
+
+msgid "1.3.6.1.4.1.311.64.1.1"
+msgstr "Server Trust של מערכת שמות תחומים (DNS)"
+
+msgid "1.3.6.1.4.1.311.67.1.1"
+msgstr "?הצפנת כונן של BitLocker?"
+
+msgid "1.3.6.1.4.1.311.67.1.2"
+msgstr "סוכן שחזור נתונים של BitLocker"
+
+msgid "1.3.6.1.4.1.311.76.6.1"
+msgstr "Windows Update"
+
+msgid "1.2.840.10040.4.1"
+msgstr "DSA"
+
+msgid "1.2.840.10040.4.3"
+msgstr "sha1DSA"
+
+msgid "1.2.840.113549.1.1.1"
+msgstr "RSA (RSA_SIGN)"
+
+msgid "1.2.840.113549.1.1.2"
+msgstr "md2RSA"
+
+msgid "1.2.840.113549.1.1.3"
+msgstr "md4RSA"
+
+msgid "1.2.840.113549.1.1.4"
+msgstr "md5RSA"
+
+msgid "1.2.840.113549.1.1.5"
+msgstr "sha1RSA"
+
+msgid "1.2.840.113549.1.1.7"
+msgstr "RSAES_OAEP"
+
+msgid "1.2.840.113549.1.1.8"
+msgstr "mgf1"
+
+msgid "1.2.840.113549.1.1.10"
+msgstr "RSASSA-PSS"
+
+msgid "1.2.840.113549.1.1.11"
+msgstr "sha256RSA"
+
+msgid "1.2.840.113549.1.1.12"
+msgstr "sha384RSA"
+
+msgid "1.2.840.113549.1.1.13"
+msgstr "sha512RSA"
+
+msgid "1.2.840.113549.1.3.1"
+msgstr "DH"
+
+msgid "1.2.840.113549.1.7.1"
+msgstr "נתוני PKCS 7"
+
+msgid "1.2.840.113549.1.7.2"
+msgstr "חתום על-ידי PKCS 7"
+
+msgid "1.2.840.113549.1.7.3"
+msgstr "במעטפת הצפנה כפולה של PKCS 7"
+
+msgid "1.2.840.113549.1.7.4"
+msgstr "חתום במעטפת הצפנה כפולה של PKCS 7"
+
+msgid "1.2.840.113549.1.7.5"
+msgstr "PKCS 7 מתומצת"
+
+msgid "1.2.840.113549.1.7.6"
+msgstr "מוצפן בהתאם ל- PKCS 7"
+
+msgid "1.2.840.113549.1.9.2"
+msgstr "‏‏שם לא מובנה"
+
+msgid "1.2.840.113549.1.9.3"
+msgstr "סוג התוכן"
+
+msgid "1.2.840.113549.1.9.4"
+msgstr "תקציר הודעות"
+
+msgid "1.2.840.113549.1.9.5"
+msgstr "מועד חתימה"
+
+msgid "1.2.840.113549.1.9.6"
+msgstr "חתימה נגדית"
+
+msgid "1.2.840.113549.1.9.7"
+msgstr "דרוש סיסמה"
+
+msgid "1.2.840.113549.1.9.8"
+msgstr "כתובת לא מובנית"
+
+msgid "1.2.840.113549.1.9.14"
+msgstr "‏‏תוספות של אישורים"
+
+msgid "1.2.840.113549.1.9.15"
+msgstr "יכולות SMIME"
+
+msgid "1.2.840.113549.2.2"
+msgstr "md2"
+
+msgid "1.2.840.113549.2.4"
+msgstr "md4"
+
+msgid "1.2.840.113549.2.5"
+msgstr "md5 (md5NoSign)"
+
+msgid "1.2.840.113549.3.2"
+msgstr "rc2"
+
+msgid "1.2.840.113549.3.4"
+msgstr "rc4"
+
+msgid "1.2.840.113549.3.7"
+msgstr "3des"
+
+msgid "1.3.6.1.5.5.7.1.2"
+msgstr "ביומטרי"
+
+msgid "1.3.6.1.5.5.7.1.11"
+msgstr "גישה למידע אודות נושא (Subject Information Access)"
+
+msgid "1.3.6.1.5.5.7.2.1"
+msgstr "CPS"
+
+msgid "1.3.6.1.5.5.7.2.2"
+msgstr "‏‏הודעה למשתמש"
+
+msgid "1.3.6.1.5.5.7.3.5"
+msgstr "‏‏מערכת קצה של אבטחת IP‏"
+
+msgid "1.3.6.1.5.5.7.3.6"
+msgstr "‏‏הסיום תעלה של אבטחת IP‏"
+
+msgid "1.3.6.1.5.5.7.3.7"
+msgstr "‏‏משתמש אבטחת IP‏"
+
+msgid "1.3.6.1.5.5.7.48.5"
+msgstr "מאגר אישורים"
+
+msgid "1.3.6.1.5.5.7.48.1.5"
+msgstr "OCSP - ללא בדיקת ביטול (id-pkix-ocsp-nocheck)"
+
+msgid "1.3.14.3.2.3"
+msgstr "md5RSA"
+
+msgid "1.3.14.3.2.7"
+msgstr "des"
+
+msgid "1.3.14.3.2.12"
+msgstr "DSA (DSA_SIGN)"
+
+msgid "1.3.14.3.2.13"
+msgstr "sha1DSA (shaDSA)"
+
+msgid "1.3.14.3.2.15"
+msgstr "shaRSA"
+
+msgid "1.3.14.3.2.18"
+msgstr "sha"
+
+msgid "1.3.14.3.2.26"
+msgstr "sha1 (sha1NoSign)"
+
+msgid "1.3.14.3.2.27"
+msgstr "dsaSHA1"
+
+msgid "1.3.14.3.2.29"
+msgstr "sha1RSA (shaRSA)"
+
+msgid "2.5.29.20"
+msgstr "מספר רשימת ביטול אישורים (CRL)"
+
+msgid "2.5.29.21"
+msgstr "‏‏קוד סיבה של רשימת ביטול אישורים"
+
+msgid "2.5.29.27"
+msgstr "‏‏מציין שינויים ברשימת ביטול אישורים (CRL)"
+
+msgid "2.5.29.28"
+msgstr "נקודת הפצה של הנפקות"
+
+msgid "2.5.29.32.0"
+msgstr "‏‏כל רכיבי מדיניות ההנפקה"
+
+msgid "2.5.29.33"
+msgstr "מיפויי מדיניות"
+
+msgid "2.5.29.36"
+msgstr "אילוצי מדיניות"
+
+msgid "2.5.29.46"
+msgstr "רשימת ביטול האישורים החדשה ביותר"
+
+msgid "2.16.840.1.113730.1.1"
+msgstr "Netscape Cert Type"
+
+msgid "2.16.840.1.113730.1.2"
+msgstr "Netscape Base URL"
+
+msgid "2.16.840.1.113730.1.3"
+msgstr "Netscape Revocation URL"
+
+msgid "2.16.840.1.113730.1.4"
+msgstr "Netscape CA Revocation URL"
+
+msgid "2.16.840.1.113730.1.7"
+msgstr "Netscape Cert Renewal URL"
+
+msgid "2.16.840.1.113730.1.8"
+msgstr "Netscape CA Policy URL"
+
+msgid "2.16.840.1.113730.1.12"
+msgstr "Netscape SSL ServerName"
+
+msgid "2.16.840.1.113730.1.13"
+msgstr "Netscape Comment"
+
+msgid "2.16.840.1.101.3.4.1.2"
+msgstr "aes128"
+
+msgid "2.16.840.1.101.3.4.1.22"
+msgstr "aes192"
+
+msgid "2.16.840.1.101.3.4.1.42"
+msgstr "aes256"
+
+msgid "2.16.840.1.101.3.4.2.1"
+msgstr "sha256 (sha256NoSign)"
+
+msgid "2.16.840.1.101.3.4.2.2"
+msgstr "sha384 (sha384NoSign)"
+
+msgid "2.16.840.1.101.3.4.2.3"
+msgstr "sha512 (sha512NoSign)"
+
+msgid "1.2.643.2.2.3"
+msgstr "GOST R 34.11/34.10-2001"
+
+msgid "1.2.643.2.2.9"
+msgstr "GOST R 34.11-94"
+
+msgid "1.2.643.2.2.19"
+msgstr "GOST R 34.10-2001"
+
+msgid "1.2.643.2.2.21"
+msgstr "GOST 28147-89"
+
+msgid "1.2.643.2.2.98"
+msgstr "GOST R 34.10-2001 DH"
+
+msgid "1.2.643.7.1.1.1.1"
+msgstr "GOST R 34.10-2012 256 bit"
+
+msgid "1.2.643.7.1.1.1.2"
+msgstr "GOST R 34.10-2012 512 bit"
+
+msgid "1.2.643.7.1.1.2.2"
+msgstr "GOST R 34.11-2012 256 bit"
+
+msgid "1.2.643.7.1.1.2.3"
+msgstr "GOST R 34.11-2012 512 bit"
+
+msgid "1.2.643.7.1.1.3.2"
+msgstr "GOST R 34.11-2012/34.10-2012 256 bit"
+
+msgid "1.2.643.7.1.1.3.3"
+msgstr "GOST R 34.11-2012/34.10-2012 512 bit"
+
+msgid "1.2.643.7.1.2.1.1.1"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 A"
+
+msgid "1.2.643.7.1.2.1.1.2"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 B"
+
+msgid "1.2.643.7.1.2.1.1.3"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 C"
+
+msgid "1.2.643.7.1.2.1.1.4"
+msgstr "GOST R 34.10-2012 256 bit, parameters TC26 D"
+
+msgid "1.2.643.7.1.2.1.2.1"
+msgstr "GOST R 34.10-2012 512 bit, default parameters"
+
+msgid "1.2.643.7.1.2.1.2.2"
+msgstr "GOST R 34.10-2012 512 bit, parameters TC26 B"
+
+msgid "1.2.643.7.1.2.1.2.3"
+msgstr "GOST R 34.10-2012 512 bit, parameters TC26 C"
+
+msgid "1.2.643.7.1.2.5.1.1"
+msgstr "GOST 28147-89, cipher parameters TC26 Z"
+
+msgid "1.2.643.3.131.1.1"
+msgstr "INN"
+
+msgid "1.2.643.100.1"
+msgstr "OGRN"
+
+msgid "1.2.643.100.3"
+msgstr "SNILS"
+
+msgid "1.2.643.100.111"
+msgstr "Subject sign tool"
+
+msgid "1.2.643.100.112"
+msgstr "Issuer sign tool"
+
+msgid "1.2.840.10046.2.1"
+msgstr "DH"
+
+msgid "1.3.6.1.5.2.3.5"
+msgstr "אימות KDC"
+
+msgid "1.3.6.1.5.5.7.12.2"
+msgstr "‏‏נתוני פרוטוקול ניהול אישורים CMC"
+
+msgid "1.3.6.1.5.5.7.12.3"
+msgstr "‏‏תגובת פרוטוקול ניהול אישורים CMC"
+
+msgid "2.5.29.1"
+msgstr "‏‏מזהה מפתח של הרשות"
+
+msgid "2.5.29.2"
+msgstr "‏‏תכונות המפתח"
+
+msgid "2.5.29.4"
+msgstr "‏‏מגבלת שימוש במפתח"
+
+msgid "2.5.29.7"
+msgstr "‏‏שם חלופי של נושא"
+
+msgid "2.5.29.8"
+msgstr "‏‏שם חלופי של המנפיק"
+
+msgid "2.5.29.10"
+msgstr "‏‏מגבלות בסיסיות"
+
+msgid "1.2.643.2.2.34.1"
+msgstr "TLS traffic audit"
+
+msgid "1.2.643.2.2.34.2"
+msgstr "Registration Authority temporary access"
+
+msgid "1.2.643.2.2.34.3"
+msgstr "Internet server content signature"
+
+msgid "1.2.643.2.2.34.4"
+msgstr "Registration Authority administrator"
+
+msgid "1.2.643.2.2.34.5"
+msgstr "Registration Authority operator"
+
+msgid "1.2.643.2.2.34.6"
+msgstr "Registration Authority user, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.7"
+msgstr "Registration Authority, CryptoPro RA, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.8"
+msgstr "CryptoPro RA, HTTP, TLS server"
+
+msgid "1.2.643.2.2.34.9"
+msgstr "CryptoPro RA, System administrator"
+
+msgid "1.2.643.2.2.34.10"
+msgstr "CryptoPro RA, Backup copy administrator"
+
+msgid "1.2.643.2.2.34.11"
+msgstr "CryptoPro CA, Authorized person"
+
+msgid "1.2.643.2.2.34.12"
+msgstr "CryptoPro CA, HTTP, TLS client"
+
+msgid "1.2.643.2.2.34.13"
+msgstr "CryptoPro CA, System administrator"
+
+msgid "1.2.643.2.2.34.14"
+msgstr "CryptoPro CA, Backup copy administrator"
+
+msgid "1.2.643.2.2.34.15"
+msgstr "CryptoPro, CA access, IPSec server"
+
+msgid "1.2.643.2.2.34.16"
+msgstr "CryptoPro HSM Audit Administrator"
+
+msgid "1.2.643.2.2.34.21"
+msgstr "CryptoPro HSM Administrator"
+
+msgid "1.2.643.2.2.34.22"
+msgstr "CryptoPro HSM Server Administrator"
+
+msgid "1.2.643.2.2.34.24"
+msgstr "CryptoPro CA, Domain Controller (Winlogon)"
+
+msgid "1.2.643.2.2.34.25"
+msgstr "TSP Server Client"
+
+msgid "1.2.643.2.2.34.26"
+msgstr "OCSP Server Client"
+
+msgid "1.2.643.2.2.34.27"
+msgstr "CryptoPro HSM Backup Administrator"
+
+msgid "1.2.643.2.2.34.28"
+msgstr "CryptoPro HSM Auditor"
+
+msgid "1.2.643.2.2.37.3.1"
+msgstr "CryptoPro CSP private keys extension. Intermediate store"
+
+msgid "1.2.643.2.2.37.3.2"
+msgstr "CryptoPro CSP private keys extension. Signature trust store"
+
+msgid "1.2.643.2.2.37.3.3"
+msgstr "CryptoPro CSP private keys extension. Exchange trust store"
+
+msgid "1.2.643.2.2.49.2"
+msgstr "Crypto-Pro restricted license"
+
+msgid "1.2.643.100.113.1"
+msgstr "Electronic signature tool KC1"
+
+msgid "1.2.643.100.113.2"
+msgstr "Electronic signature tool KC2"
+
+msgid "1.2.643.100.113.3"
+msgstr "Electronic signature tool KC3"
+
+msgid "1.2.643.100.113.4"
+msgstr "Electronic signature tool KB1"
+
+msgid "1.2.643.100.113.5"
+msgstr "Electronic signature tool KB2"
+
+msgid "1.2.643.100.113.6"
+msgstr "Electronic signature tool KA1"
+
+msgid "1.2.643.100.114.1"
+msgstr "CA electronic signature tool KC1"
+
+msgid "1.2.643.100.114.2"
+msgstr "CA electronic signature tool KC2"
+
+msgid "1.2.643.100.114.3"
+msgstr "CA electronic signature tool KC3"
+
+msgid "1.2.643.100.114.4"
+msgstr "CA electronic signature tool KB1"
+
+msgid "1.2.643.100.114.5"
+msgstr "CA electronic signature tool KB2"
+
+msgid "1.2.643.100.114.6"
+msgstr "CA electronic signature tool KA1"
+
+msgid "1.3.6.1.4.1.311.13.2.3"
+msgstr "גירסת מערכת ההפעלה"
+
+msgid "1.3.6.1.4.1.311.21.13"
+msgstr "מפתח פרטי מוצפן"
+
+msgid "1.3.6.1.4.1.311.21.14"
+msgstr "‏‏מיקומי רשימות ביטול אישורים מפורסמות"
+
+msgid "1.3.6.1.4.1.311.21.15"
+msgstr "‏‏אכוף מדיניות שרשרת אישורים"
+
+msgid "1.3.6.1.4.1.311.21.16"
+msgstr "אישור מפתח Hash  שנשמר בארכיון"
+
+msgid "1.3.6.1.4.1.311.21.19"
+msgstr "‏‏שכפול דואר אלקטרוני של שירותי ספריות"
+
+msgid "1.3.6.1.4.1.311.21.20"
+msgstr "מידע לקוח"
+
+msgid "1.3.6.1.4.1.311.21.22"
+msgstr "גרסת רשות האישורים מוצלבת"
+
+msgid "1.3.6.1.5.5.8.2.2"
+msgstr "‏‏מתווך להחלפת מפתחות באינטרנט (IKE) עבור אבטחת IP"
+
+msgid "1.2.840.113549.1.9.15.1"
+msgstr "‏‏העדף נתונים חתומים"
+
+msgid "1.2.643.100.5"
+msgstr "OGRNIP"
+
+msgid "1.2.643.2.2.30.0"
+msgstr "GOST R 34.11-94, test parameters"
+
+msgid "1.2.643.2.2.30.1"
+msgstr "GOST R 34.11-94, default parameters"
+
+msgid "1.2.643.2.2.30.2"
+msgstr "GOST R 34.11-94, hash parameters 1"
+
+msgid "1.2.643.2.2.30.3"
+msgstr "GOST R 34.11-94, hash parameters 2"
+
+msgid "1.2.643.2.2.30.4"
+msgstr "GOST R 34.11-94, hash parameters 3"
+
+msgid "1.2.643.2.2.31.0"
+msgstr "GOST 28147-89, test parameters"
+
+msgid "1.2.643.2.2.31.1"
+msgstr "GOST 28147-89, default parameters"
+
+msgid "1.2.643.2.2.31.12"
+msgstr "GOST 28147-89, cipher parameters TC26 A"
+
+msgid "1.2.643.2.2.31.13"
+msgstr "GOST 28147-89, cipher parameters TC26 B"
+
+msgid "1.2.643.2.2.31.14"
+msgstr "GOST 28147-89, cipher parameters TC26 C"
+
+msgid "1.2.643.2.2.31.15"
+msgstr "GOST 28147-89, cipher parameters TC26 D"
+
+msgid "1.2.643.2.2.31.16"
+msgstr "GOST 28147-89, cipher parameters TC26 E"
+
+msgid "1.2.643.2.2.31.17"
+msgstr "GOST 28147-89, cipher parameters TC26 F"
+
+msgid "1.2.643.2.2.31.2"
+msgstr "GOST 28147-89, cipher parameters 1"
+
+msgid "1.2.643.2.2.31.3"
+msgstr "GOST 28147-89, cipher parameters 2"
+
+msgid "1.2.643.2.2.31.4"
+msgstr "GOST 28147-89, cipher parameters 3"
+
+msgid "1.2.643.2.2.31.5"
+msgstr "GOST 28147-89, Oscar 1.1 parameters"
+
+msgid "1.2.643.2.2.31.6"
+msgstr "GOST 28147-89, Oscar 1.0 parameters"
+
+msgid "1.2.643.2.2.31.7"
+msgstr "GOST 28147-89, RIC 1 parameters"
+
+msgid "1.2.643.2.2.35.0"
+msgstr "GOST R 34.10 256 bit, test parameters"
+
+msgid "1.2.643.2.2.35.1"
+msgstr "GOST R 34.10 256 bit, default parameters"
+
+msgid "1.2.643.2.2.35.2"
+msgstr "GOST R 34.10 256 bit, Oscar 2.x parameters"
+
+msgid "1.2.643.2.2.35.3"
+msgstr "GOST R 34.10 256 bit, signature parameters 1"
+
+msgid "1.2.643.2.2.36.0"
+msgstr "GOST R 34.10 256 bit, default exchange parameters"
+
+msgid "1.2.643.2.2.36.1"
+msgstr "GOST R 34.10 256 bit, exchange parameters 1"
+
+msgid "1.2.643.2.2.37.3.10"
+msgstr "CryptoPro CSP private keys extension. Exchange key usage period"
+
+msgid "1.2.643.2.2.37.3.11"
+msgstr "CryptoPro CSP private keys extension. Private key time validity control mode"
+
+msgid "1.2.643.2.2.37.3.9"
+msgstr "CryptoPro CSP private keys extension. Signature key usage period"
+
+msgid "1.2.643.2.2.38.1"
+msgstr "Personal registration base policy"
+
+msgid "1.2.643.2.2.38.2"
+msgstr "Network registration base policy"
+
+msgid "1.2.643.2.2.96"
+msgstr "GOST R 34.10-2001 ESDH"
+
+msgid "1.2.643.7.1.1.5.1.1"
+msgstr "GOST R 34.12-2015 Magma CTR-ACPKM"
+
+msgid "1.2.643.7.1.1.5.1.2"
+msgstr "GOST R 34.12-2015 Magma CTR-ACPKM-OMAC"
+
+msgid "1.2.643.7.1.1.5.2.1"
+msgstr "GOST R 34.12-2015 Kuznyechik CTR-ACPKM"
+
+msgid "1.2.643.7.1.1.5.2.2"
+msgstr "GOST R 34.12-2015 Kuznyechik CTR-ACPKM-OMAC"
+
+msgid "1.2.643.7.1.1.6.1"
+msgstr "GOST R 34.10-2012 DH 256 bit"
+
+msgid "1.2.643.7.1.1.6.2"
+msgstr "GOST R 34.10-2012 DH 512 bit"
+
+msgid "1.2.840.10045.2.1"
+msgstr "ECC"
+
+msgid "1.2.840.10045.3.1.7"
+msgstr "ECDSA_P256 (ECDH_P256)"
+
+msgid "1.2.840.10045.4.1"
+msgstr "sha1ECDSA"
+
+msgid "1.2.840.10045.4.3"
+msgstr "specifiedECDSA"
+
+msgid "1.2.840.10045.4.3.2"
+msgstr "sha256ECDSA"
+
+msgid "1.2.840.10045.4.3.3"
+msgstr "sha384ECDSA"
+
+msgid "1.2.840.10045.4.3.4"
+msgstr "sha512ECDSA"
+
+msgid "1.3.132.0.34"
+msgstr "ECDSA_P384 (ECDH_P384)"
+
+msgid "1.3.132.0.35"
+msgstr "ECDSA_P521 (ECDH_P521)"
+
+msgid "1.2.840.113549.1.9.16.3.5"
+msgstr "ESDH"
+
+msgid "1.2.840.113549.1.9.16.3.6"
+msgstr "CMS3DESwrap"
+
+msgid "1.2.840.113549.1.9.16.3.7"
+msgstr "CMSRC2wrap"
+
+msgid "1.3.6.1.5.5.7.7"
+msgstr "‏‏בקשת פרוטוקול ניהול אישורים CMC לא חתומה"
+
+msgid "1.3.6.1.5.5.7.1.3"
+msgstr "הצהרות לגבי אישורים העומדים בדרישות"
+
+msgid "1.3.6.1.5.5.7.6.2"
+msgstr "NO_SIGN"
+
+msgid "1.3.6.1.5.5.7.7.1"
+msgstr "‏‏מידע על מצב פרוטוקול ניהול אישורים CMC"
+
+msgid "1.3.6.1.5.5.7.7.5"
+msgstr "קוד עסקה"
+
+msgid "1.3.6.1.5.5.7.7.6"
+msgstr "שולח Nonce"
+
+msgid "1.3.6.1.5.5.7.7.7"
+msgstr "שם הנמען Nonce"
+
+msgid "1.3.6.1.5.5.7.7.8"
+msgstr "‏‏הרחבות פרוטוקול ניהול אישורים CMC"
+
+msgid "1.3.6.1.5.5.7.7.15"
+msgstr "‏‏קבל אישור"
+
+msgid "1.3.6.1.5.5.7.7.16"
+msgstr "קבל רשימת ביטול אישורים (CRL)"
+
+msgid "1.3.6.1.5.5.7.7.17"
+msgstr "‏‏בטל בקשה"
+
+msgid "1.3.6.1.5.5.7.7.18"
+msgstr "מידע Reg"
+
+msgid "1.3.6.1.5.5.7.7.21"
+msgstr "שאילת בהמתנה"
+
+msgid "1.3.6.1.5.5.7.7.24"
+msgstr "אישור קבלת אישור"
+
+msgid "2.16.840.1.101.3.4.1.5"
+msgstr "aes128wrap"
+
+msgid "2.16.840.1.101.3.4.1.25"
+msgstr "aes192wrap"
+
+msgid "2.16.840.1.101.3.4.1.45"
+msgstr "aes256wrap"
+
+msgid "1.3.133.16.840.63.0.2"
+msgstr "ECDH_STD_SHA1_KDF"
+
+msgid "1.3.132.1.11.1"
+msgstr "ECDH_STD_SHA256_KDF"
+
+msgid "1.3.132.1.11.2"
+msgstr "ECDH_STD_SHA384_KDF"
+

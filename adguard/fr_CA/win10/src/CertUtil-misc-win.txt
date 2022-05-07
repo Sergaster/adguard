@@ -1,0 +1,178 @@
+0000: 30 82 02 e0				; SEQUENCE (2e0 Octets)
+0004:    30 82 02 4a				; SEQUENCE (24a Octets)
+0008:    |  a0 03				; OPTIONAL[0] (3 Octets)
+000a:    |  |  02 01				; INTEGER (1 Octets)
+000c:    |  |     02
+000d:    |  02 04				; INTEGER (4 Octets)
+000f:    |  |  77 e8 bc 5f
+0013:    |  30 0c				; SEQUENCE (c Octets)
+0015:    |  |  06 08				; OBJECT_ID (8 Octets)
+0017:    |  |  |  2a 85 03 07 01 01 03 03
+         |  |  |     ; 1.2.643.7.1.1.3.3 GOST R 34.11-2012/34.10-2012 512 bit
+001f:    |  |  05 00				; NULL (0 Octets)
+0021:    |  30 81 ae				; SEQUENCE (ae Octets)
+0024:    |  |  31 4e				; SET (4e Octets)
+0026:    |  |  |  30 4c				; SEQUENCE (4c Octets)
+0028:    |  |  |     06 03			; OBJECT_ID (3 Octets)
+002a:    |  |  |     |  55 04 03
+         |  |  |     |     ; 2.5.4.3 Nom usuel (CN)
+002d:    |  |  |     0c 45			; UTF8_STRING (45 Octets)
+002f:    |  |  |        d0 a3 d0 b4 d0 be d1 81  d1 82 d0 be d0 b2 d0 b5  ; ................
+003f:    |  |  |        d1 80 d1 8f d1 8e d1 89  d0 b8 d0 b9 20 d1 86 d0  ; ............ ...
+004f:    |  |  |        b5 d0 bd d1 82 d1 80 20  31 20 28 43 65 72 74 69  ; ....... 1 (Certi
+005f:    |  |  |        66 69 63 61 74 69 6f 6e  20 41 75 74 68 6f 72 69  ; fication Authori
+006f:    |  |  |        74 79 20 31 29                                    ; ty 1)
+         |  |  |           ; "?????????????? ????? 1 (Certification Authority 1)"
+0074:    |  |  31 1e				; SET (1e Octets)
+0076:    |  |  |  30 1c				; SEQUENCE (1c Octets)
+0078:    |  |  |     06 03			; OBJECT_ID (3 Octets)
+007a:    |  |  |     |  55 04 0a
+         |  |  |     |     ; 2.5.4.10 Organisation (O)
+007d:    |  |  |     0c 15			; UTF8_STRING (15 Octets)
+007f:    |  |  |        d0 9e d0 9e d0 9e 20 22  d0 92 d0 b5 d0 ba d1 82  ; ...... "........
+008f:    |  |  |        d0 be d1 80 22                                    ; ...."
+         |  |  |           ; "??? "??????""
+0094:    |  |  31 0b				; SET (b Octets)
+0096:    |  |  |  30 09				; SEQUENCE (9 Octets)
+0098:    |  |  |     06 03			; OBJECT_ID (3 Octets)
+009a:    |  |  |     |  55 04 06
+         |  |  |     |     ; 2.5.4.6 Pays/région (C)
+009d:    |  |  |     0c 02			; UTF8_STRING (2 Octets)
+009f:    |  |  |        52 55                                             ; RU
+         |  |  |           ; "RU"
+00a1:    |  |  31 15				; SET (15 Octets)
+00a3:    |  |  |  30 13				; SEQUENCE (13 Octets)
+00a5:    |  |  |     06 03			; OBJECT_ID (3 Octets)
+00a7:    |  |  |     |  55 04 07
+         |  |  |     |     ; 2.5.4.7 Ville (L)
+00aa:    |  |  |     0c 0c			; UTF8_STRING (c Octets)
+00ac:    |  |  |        d0 9c d0 be d1 81 d0 ba  d0 b2 d0 b0              ; ............
+         |  |  |           ; "??????"
+00b8:    |  |  31 18				; SET (18 Octets)
+00ba:    |  |     30 16				; SEQUENCE (16 Octets)
+00bc:    |  |        06 05			; OBJECT_ID (5 Octets)
+00be:    |  |        |  2a 85 03 64 01
+         |  |        |     ; 1.2.643.100.1 OGRN
+00c3:    |  |        12 0d			; NUMERIC_STRING (d Octets)
+00c5:    |  |           30 31 32 33 34 35 36 37  38 39 30 31 32           ; 0123456789012
+00d2:    |  30 1e				; SEQUENCE (1e Octets)
+00d4:    |  |  17 0d				; UTC_TIME (d Octets)
+00d6:    |  |  |  32 30 31 31 32 34 31 31  30 33 31 39 5a           ; 201124110319Z
+         |  |  |     ;  2020-11-24 14:03
+00e3:    |  |  17 0d				; UTC_TIME (d Octets)
+00e5:    |  |     32 31 31 31 32 34 31 31  30 33 31 39 5a           ; 211124110319Z
+         |  |        ;  2021-11-24 14:03
+00f2:    |  30 81 91				; SEQUENCE (91 Octets)
+00f5:    |  |  31 33				; SET (33 Octets)
+00f7:    |  |  |  30 31				; SEQUENCE (31 Octets)
+00f9:    |  |  |     06 03			; OBJECT_ID (3 Octets)
+00fb:    |  |  |     |  55 04 03
+         |  |  |     |     ; 2.5.4.3 Nom usuel (CN)
+00fe:    |  |  |     1e 2a			; UNICODE_STRING (2a Octets)
+0100:    |  |  |        04 18 04 32 04 30 04 3d  04 3e 04 32 00 20 04 1f  ; ...2.0.=.>.2. ..
+0110:    |  |  |        04 51 04 42 04 40 00 20  04 21 04 35 04 40 04 33  ; .Q.B.@. .!.5.@.3
+0120:    |  |  |        04 35 04 35 04 32 04 38  04 47                    ; .5.5.2.8.G
+         |  |  |           ; "?????? ???? ?????????"
+012a:    |  |  31 1c				; SET (1c Octets)
+012c:    |  |  |  30 1a				; SEQUENCE (1a Octets)
+012e:    |  |  |     06 03			; OBJECT_ID (3 Octets)
+0130:    |  |  |     |  55 04 0a
+         |  |  |     |     ; 2.5.4.10 Organisation (O)
+0133:    |  |  |     0c 13			; UTF8_STRING (13 Octets)
+0135:    |  |  |        d0 a4 d0 b8 d0 b7 d1 84  d0 b0 d0 ba 20 d0 9c d0  ; ............ ...
+0145:    |  |  |        93 d0 a3                                          ; ...
+         |  |  |           ; "?????? ???"
+0148:    |  |  31 0b				; SET (b Octets)
+014a:    |  |  |  30 09				; SEQUENCE (9 Octets)
+014c:    |  |  |     06 03			; OBJECT_ID (3 Octets)
+014e:    |  |  |     |  55 04 06
+         |  |  |     |     ; 2.5.4.6 Pays/région (C)
+0151:    |  |  |     0c 02			; UTF8_STRING (2 Octets)
+0153:    |  |  |        52 55                                             ; RU
+         |  |  |           ; "RU"
+0155:    |  |  31 13				; SET (13 Octets)
+0157:    |  |  |  30 11				; SEQUENCE (11 Octets)
+0159:    |  |  |     06 03			; OBJECT_ID (3 Octets)
+015b:    |  |  |     |  55 04 07
+         |  |  |     |     ; 2.5.4.7 Ville (L)
+015e:    |  |  |     0c 0a			; UTF8_STRING (a Octets)
+0160:    |  |  |        d0 9a d0 b5 d1 80 d1 87  d1 8c                    ; ..........
+         |  |  |           ; "?????"
+016a:    |  |  31 1a				; SET (1a Octets)
+016c:    |  |     30 18				; SEQUENCE (18 Octets)
+016e:    |  |        06 08			; OBJECT_ID (8 Octets)
+0170:    |  |        |  2a 85 03 03 81 03 01 01
+         |  |        |     ; 1.2.643.3.131.1.1 INN
+0178:    |  |        12 0c			; NUMERIC_STRING (c Octets)
+017a:    |  |           39 38 37 36 35 34 33 32  31 30 39 38              ; 987654321098
+0186:    |  30 63				; SEQUENCE (63 Octets)
+0188:    |  |  30 1c				; SEQUENCE (1c Octets)
+018a:    |  |  |  06 06				; OBJECT_ID (6 Octets)
+018c:    |  |  |  |  2a 85 03 02 02 13
+         |  |  |  |     ; 1.2.643.2.2.19 GOST R 34.10-2001
+0192:    |  |  |  30 12				; SEQUENCE (12 Octets)
+0194:    |  |  |     06 07			; OBJECT_ID (7 Octets)
+0196:    |  |  |     |  2a 85 03 02 02 24 00
+         |  |  |     |     ; 1.2.643.2.2.36.0 GOST R 34.10 256 bit, default exchange parameters
+019d:    |  |  |     06 07			; OBJECT_ID (7 Octets)
+019f:    |  |  |        2a 85 03 02 02 1e 01
+         |  |  |           ; 1.2.643.2.2.30.1 GOST R 34.11-94, default parameters
+01a6:    |  |  03 43				; BIT_STRING (43 Octets)
+01a8:    |  |     00
+01a9:    |  |     04 40 14 c0 85 0d 1b fb  d9 89 46 ad 5a a9 50 44
+01b9:    |  |     af 76 ab ec ae 46 82 d1  95 03 5b ee 1f 97 94 7e
+01c9:    |  |     07 1c 75 86 c1 f9 f0 a8  f5 62 24 db 03 39 df f4
+01d9:    |  |     7d f1 37 67 3d c6 48 8a  a0 e6 44 af 8f f7 fc b7
+01e9:    |  |     50 7f
+01eb:    |  a3 65				; OPTIONAL[3] (65 Octets)
+01ed:    |     30 63				; SEQUENCE (63 Octets)
+01ef:    |        30 0b				; SEQUENCE (b Octets)
+01f1:    |        |  06 03			; OBJECT_ID (3 Octets)
+01f3:    |        |  |  55 1d 0f
+         |        |  |     ; 2.5.29.15 Utilisation de la clé
+01f6:    |        |  04 04			; OCTET_STRING (4 Octets)
+01f8:    |        |     03 02			; BIT_STRING (2 Octets)
+01fa:    |        |        07
+01fb:    |        |        80
+01fc:    |        30 35				; SEQUENCE (35 Octets)
+01fe:    |        |  06 03			; OBJECT_ID (3 Octets)
+0200:    |        |  |  55 1d 25
+         |        |  |     ; 2.5.29.37 Utilisation avancée de la clé
+0203:    |        |  04 2e			; OCTET_STRING (2e Octets)
+0205:    |        |     30 2c			; SEQUENCE (2c Octets)
+0207:    |        |        06 08		; OBJECT_ID (8 Octets)
+0209:    |        |        |  2a 85 03 02 02 25 03 05
+         |        |        |     ; 1.2.643.2.2.37.3.5
+0211:    |        |        06 08		; OBJECT_ID (8 Octets)
+0213:    |        |        |  2a 85 03 02 02 25 03 06
+         |        |        |     ; 1.2.643.2.2.37.3.6
+021b:    |        |        06 0a		; OBJECT_ID (a Octets)
+021d:    |        |        |  2b 06 01 04 01 82 37 0c  02 03
+         |        |        |     ; 1.3.6.1.4.1.311.12.2.3
+0227:    |        |        06 0a		; OBJECT_ID (a Octets)
+0229:    |        |           2b 06 01 04 01 82 37 10  01 01
+         |        |              ; 1.3.6.1.4.1.311.16.1.1
+0233:    |        30 1d				; SEQUENCE (1d Octets)
+0235:    |           06 03			; OBJECT_ID (3 Octets)
+0237:    |           |  55 1d 0e
+         |           |     ; 2.5.29.14 Identificateur de la clé du sujet
+023a:    |           04 16			; OCTET_STRING (16 Octets)
+023c:    |              04 14			; OCTET_STRING (14 Octets)
+023e:    |                 53 2a 21 af 62 9a 5a cf  e2 02 24 10 9c 32 45 43  ; S*!.b.Z...$..2EC
+024e:    |                 65 14 e2 a3                                       ; e...
+0252:    30 0c					; SEQUENCE (c Octets)
+0254:    |  06 08				; OBJECT_ID (8 Octets)
+0256:    |  |  2a 85 03 07 01 01 03 03
+         |  |     ; 1.2.643.7.1.1.3.3 GOST R 34.11-2012/34.10-2012 512 bit
+025e:    |  05 00				; NULL (0 Octets)
+0260:    03 81 81				; BIT_STRING (81 Octets)
+0263:       00
+0264:       87 73 b4 cd 86 95 de 6f  8a ec c1 7e d3 43 95 78
+0274:       d9 fc 91 e9 7e cb 4f 66  a3 b5 76 fc a7 3a a8 f9
+0284:       e3 48 e1 64 9e a5 bf 70  3d 15 9d cd b9 f0 10 f3
+0294:       0c 5c 21 09 ae ea 9f 16  a2 dc fa 3f dc 88 be e4
+02a4:       b1 21 4f d0 53 c7 0b 44  96 49 cd 27 3f b2 f3 38
+02b4:       06 49 09 52 14 15 49 ec  cb 98 9b 5d b5 c2 28 a3
+02c4:       2e cf 28 4c fb 36 43 d5  7d db 63 e4 fe 48 1b 7a
+02d4:       ab 7f ed 14 e6 3a de 13  65 34 19 84 56 13 df 20
+CertUtil: -asn La commande s’est terminée correctement.

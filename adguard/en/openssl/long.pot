@@ -1,0 +1,1632 @@
+msgid "1.2"
+msgstr "ISO Member Body"
+
+msgid "1.3.6.1.5.5.8.1.1"
+msgstr "hmac-md5"
+
+msgid "1.3.6.1.5.5.8.1.2"
+msgstr "hmac-sha1"
+
+msgid "1.3.36.8.3.3"
+msgstr "Professional Information or basis for Admission"
+
+msgid "1.3.111.2.1619"
+msgstr "IEEE Security in Storage Working Group"
+
+msgid "2.23"
+msgstr "International Organizations"
+
+msgid "2.5.1.5"
+msgstr "Selected Attribute Types"
+
+msgid "1.2.840"
+msgstr "ISO US Member Body"
+
+msgid "1.2.840.10040"
+msgstr "X9.57"
+
+msgid "1.2.840.10040.4"
+msgstr "X9.57 CM ?"
+
+msgid "1.2.156"
+msgstr "ISO CN Member Body"
+
+msgid "1.2.840.10040.4.1"
+msgstr "dsaEncryption"
+
+msgid "1.2.840.10040.4.3"
+msgstr "dsaWithSHA1"
+
+msgid "1.2.840.10045"
+msgstr "ANSI X9.62"
+
+msgid "1.2.840.113533.7.66.10"
+msgstr "cast5-cbc"
+
+msgid "1.2.840.113533.7.66.12"
+msgstr "pbeWithMD5AndCast5CBC"
+
+msgid "1.2.840.113533.7.66.13"
+msgstr "password based MAC"
+
+msgid "1.2.840.113533.7.66.30"
+msgstr "Diffie-Hellman based MAC"
+
+msgid "1.2.840.113549"
+msgstr "RSA Data Security, Inc."
+
+msgid "1.2.840.113549.1"
+msgstr "RSA Data Security, Inc. PKCS"
+
+msgid "1.2.840.113549.1.1.1"
+msgstr "rsaEncryption"
+
+msgid "1.2.840.113549.1.1.2"
+msgstr "md2WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.3"
+msgstr "md4WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.4"
+msgstr "md5WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.5"
+msgstr "sha1WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.7"
+msgstr "rsaesOaep"
+
+msgid "1.2.840.113549.1.1.8"
+msgstr "mgf1"
+
+msgid "1.2.840.113549.1.1.9"
+msgstr "pSpecified"
+
+msgid "1.2.840.113549.1.1.10"
+msgstr "rsassaPss"
+
+msgid "1.2.840.113549.1.1.11"
+msgstr "sha256WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.12"
+msgstr "sha384WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.13"
+msgstr "sha512WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.14"
+msgstr "sha224WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.15"
+msgstr "sha512-224WithRSAEncryption"
+
+msgid "1.2.840.113549.1.1.16"
+msgstr "sha512-256WithRSAEncryption"
+
+msgid "1.2.840.113549.1.3.1"
+msgstr "dhKeyAgreement"
+
+msgid "1.2.840.113549.1.5.1"
+msgstr "pbeWithMD2AndDES-CBC"
+
+msgid "1.2.840.113549.1.5.3"
+msgstr "pbeWithMD5AndDES-CBC"
+
+msgid "1.2.840.113549.1.5.4"
+msgstr "pbeWithMD2AndRC2-CBC"
+
+msgid "1.2.840.113549.1.5.6"
+msgstr "pbeWithMD5AndRC2-CBC"
+
+msgid "1.2.840.113549.1.5.10"
+msgstr "pbeWithSHA1AndDES-CBC"
+
+msgid "1.2.840.113549.1.5.11"
+msgstr "pbeWithSHA1AndRC2-CBC"
+
+msgid "1.2.840.113549.1.5.12"
+msgstr "PBKDF2"
+
+msgid "1.2.840.113549.1.5.13"
+msgstr "PBES2"
+
+msgid "1.2.840.113549.1.5.14"
+msgstr "PBMAC1"
+
+msgid "1.2.840.113549.1.7.1"
+msgstr "pkcs7-data"
+
+msgid "1.2.840.113549.1.7.2"
+msgstr "pkcs7-signedData"
+
+msgid "1.2.840.113549.1.7.3"
+msgstr "pkcs7-envelopedData"
+
+msgid "1.2.840.113549.1.7.4"
+msgstr "pkcs7-signedAndEnvelopedData"
+
+msgid "1.2.840.113549.1.7.5"
+msgstr "pkcs7-digestData"
+
+msgid "1.2.840.113549.1.7.6"
+msgstr "pkcs7-encryptedData"
+
+msgid "1.2.840.113549.1.9.1"
+msgstr "emailAddress"
+
+msgid "1.2.840.113549.1.9.2"
+msgstr "unstructuredName"
+
+msgid "1.2.840.113549.1.9.3"
+msgstr "contentType"
+
+msgid "1.2.840.113549.1.9.4"
+msgstr "messageDigest"
+
+msgid "1.2.840.113549.1.9.5"
+msgstr "signingTime"
+
+msgid "1.2.840.113549.1.9.6"
+msgstr "countersignature"
+
+msgid "1.2.840.113549.1.9.7"
+msgstr "challengePassword"
+
+msgid "1.2.840.113549.1.9.8"
+msgstr "unstructuredAddress"
+
+msgid "1.2.840.113549.1.9.9"
+msgstr "extendedCertificateAttributes"
+
+msgid "1.2.840.113549.1.9.14"
+msgstr "Extension Request"
+
+msgid "1.2.840.113549.1.9.15"
+msgstr "S/MIME Capabilities"
+
+msgid "1.2.840.113549.1.9.16"
+msgstr "S/MIME"
+
+msgid "1.2.840.113549.1.9.20"
+msgstr "friendlyName"
+
+msgid "1.2.840.113549.1.9.21"
+msgstr "localKeyID"
+
+msgid "1.3.6.1.4.1.311.17.1"
+msgstr "Microsoft CSP Name"
+
+msgid "1.3.6.1.4.1.311.17.2"
+msgstr "Microsoft Local Key set"
+
+msgid "1.2.840.113549.1.9.22.1"
+msgstr "x509Certificate"
+
+msgid "1.2.840.113549.1.9.22.2"
+msgstr "sdsiCertificate"
+
+msgid "1.2.840.113549.1.9.23.1"
+msgstr "x509Crl"
+
+msgid "1.2.840.113549.1.12.1.1"
+msgstr "pbeWithSHA1And128BitRC4"
+
+msgid "1.2.840.113549.1.12.1.2"
+msgstr "pbeWithSHA1And40BitRC4"
+
+msgid "1.2.840.113549.1.12.1.3"
+msgstr "pbeWithSHA1And3-KeyTripleDES-CBC"
+
+msgid "1.2.840.113549.1.12.1.4"
+msgstr "pbeWithSHA1And2-KeyTripleDES-CBC"
+
+msgid "1.2.840.113549.1.12.1.5"
+msgstr "pbeWithSHA1And128BitRC2-CBC"
+
+msgid "1.2.840.113549.1.12.1.6"
+msgstr "pbeWithSHA1And40BitRC2-CBC"
+
+msgid "1.2.840.113549.1.12.10.1.1"
+msgstr "keyBag"
+
+msgid "1.2.840.113549.1.12.10.1.2"
+msgstr "pkcs8ShroudedKeyBag"
+
+msgid "1.2.840.113549.1.12.10.1.3"
+msgstr "certBag"
+
+msgid "1.2.840.113549.1.12.10.1.4"
+msgstr "crlBag"
+
+msgid "1.2.840.113549.1.12.10.1.5"
+msgstr "secretBag"
+
+msgid "1.2.840.113549.1.12.10.1.6"
+msgstr "safeContentsBag"
+
+msgid "1.2.840.113549.2.2"
+msgstr "md2"
+
+msgid "1.2.840.113549.2.4"
+msgstr "md4"
+
+msgid "1.2.840.113549.2.5"
+msgstr "md5"
+
+msgid "1.2.840.113549.2.6"
+msgstr "hmacWithMD5"
+
+msgid "1.2.840.113549.2.7"
+msgstr "hmacWithSHA1"
+
+msgid "1.2.156.10197.1.301"
+msgstr "sm2"
+
+msgid "1.2.156.10197.1.401"
+msgstr "sm3"
+
+msgid "1.2.156.10197.1.504"
+msgstr "sm3WithRSAEncryption"
+
+msgid "1.2.840.113549.2.8"
+msgstr "hmacWithSHA224"
+
+msgid "1.2.840.113549.2.9"
+msgstr "hmacWithSHA256"
+
+msgid "1.2.840.113549.2.10"
+msgstr "hmacWithSHA384"
+
+msgid "1.2.840.113549.2.11"
+msgstr "hmacWithSHA512"
+
+msgid "1.2.840.113549.2.12"
+msgstr "hmacWithSHA512-224"
+
+msgid "1.2.840.113549.2.13"
+msgstr "hmacWithSHA512-256"
+
+msgid "1.2.840.113549.3.2"
+msgstr "rc2-cbc"
+
+msgid "1.2.840.113549.3.4"
+msgstr "rc4"
+
+msgid "1.2.840.113549.3.7"
+msgstr "des-ede3-cbc"
+
+msgid "1.2.840.113549.3.8"
+msgstr "rc5-cbc"
+
+msgid "1.3.6.1.4.1.311.2.1.14"
+msgstr "Microsoft Extension Request"
+
+msgid "1.3.6.1.4.1.311.2.1.21"
+msgstr "Microsoft Individual Code Signing"
+
+msgid "1.3.6.1.4.1.311.2.1.22"
+msgstr "Microsoft Commercial Code Signing"
+
+msgid "1.3.6.1.4.1.311.10.3.1"
+msgstr "Microsoft Trust List Signing"
+
+msgid "1.3.6.1.4.1.311.10.3.3"
+msgstr "Microsoft Server Gated Crypto"
+
+msgid "1.3.6.1.4.1.311.10.3.4"
+msgstr "Microsoft Encrypted File System"
+
+msgid "1.3.6.1.4.1.311.20.2.2"
+msgstr "Microsoft Smartcardlogin"
+
+msgid "1.3.6.1.4.1.311.20.2.3"
+msgstr "Microsoft Universal Principal Name"
+
+msgid "1.3.6.1.4.1.188.7.1.1.2"
+msgstr "idea-cbc"
+
+msgid "1.3.6.1.4.1.3029.1.2"
+msgstr "bf-cbc"
+
+msgid "1.3.6.1.5.5.7.1.1"
+msgstr "Authority Information Access"
+
+msgid "1.3.6.1.5.5.7.1.2"
+msgstr "Biometric Info"
+
+msgid "1.3.6.1.5.5.7.1.11"
+msgstr "Subject Information Access"
+
+msgid "1.3.6.1.5.5.7.1.14"
+msgstr "Proxy Certificate Information"
+
+msgid "1.3.6.1.5.5.7.1.24"
+msgstr "TLS Feature"
+
+msgid "1.3.6.1.5.5.7.2.1"
+msgstr "Policy Qualifier CPS"
+
+msgid "1.3.6.1.5.5.7.2.2"
+msgstr "Policy Qualifier User Notice"
+
+msgid "1.3.6.1.5.5.7.3.1"
+msgstr "TLS Web Server Authentication"
+
+msgid "1.3.6.1.5.5.7.3.2"
+msgstr "TLS Web Client Authentication"
+
+msgid "1.3.6.1.5.5.7.3.3"
+msgstr "Code Signing"
+
+msgid "1.3.6.1.5.5.7.3.4"
+msgstr "E-mail Protection"
+
+msgid "1.3.6.1.5.5.7.3.5"
+msgstr "IPSec End System"
+
+msgid "1.3.6.1.5.5.7.3.6"
+msgstr "IPSec Tunnel"
+
+msgid "1.3.6.1.5.5.7.3.7"
+msgstr "IPSec User"
+
+msgid "1.3.6.1.5.5.7.3.8"
+msgstr "Time Stamping"
+
+msgid "1.3.6.1.5.5.7.3.9"
+msgstr "OCSP Signing"
+
+msgid "1.3.6.1.5.5.7.3.10"
+msgstr "dvcs"
+
+msgid "1.3.6.1.5.5.7.3.17"
+msgstr "ipsec Internet Key Exchange"
+
+msgid "1.3.6.1.5.5.7.3.18"
+msgstr "Ctrl/provision WAP Access"
+
+msgid "1.3.6.1.5.5.7.3.19"
+msgstr "Ctrl/Provision WAP Termination"
+
+msgid "1.3.6.1.5.5.7.3.21"
+msgstr "SSH Client"
+
+msgid "1.3.6.1.5.5.7.3.22"
+msgstr "SSH Server"
+
+msgid "1.3.6.1.5.5.7.3.23"
+msgstr "Send Router"
+
+msgid "1.3.6.1.5.5.7.3.24"
+msgstr "Send Proxied Router"
+
+msgid "1.3.6.1.5.5.7.3.25"
+msgstr "Send Owner"
+
+msgid "1.3.6.1.5.5.7.3.26"
+msgstr "Send Proxied Owner"
+
+msgid "1.3.6.1.5.5.7.3.27"
+msgstr "CMC Certificate Authority"
+
+msgid "1.3.6.1.5.5.7.3.28"
+msgstr "CMC Registration Authority"
+
+msgid "1.3.6.1.5.5.7.8.3"
+msgstr "Permanent Identifier"
+
+msgid "1.3.6.1.5.5.7.21.0"
+msgstr "Any language"
+
+msgid "1.3.6.1.5.5.7.21.1"
+msgstr "Inherit all"
+
+msgid "1.3.6.1.5.5.7.21.2"
+msgstr "Independent"
+
+msgid "1.3.6.1.5.5.7.48.1"
+msgstr "OCSP"
+
+msgid "1.3.6.1.5.5.7.48.2"
+msgstr "CA Issuers"
+
+msgid "1.3.6.1.5.5.7.48.3"
+msgstr "AD Time Stamping"
+
+msgid "1.3.6.1.5.5.7.48.4"
+msgstr "ad dvcs"
+
+msgid "1.3.6.1.5.5.7.48.5"
+msgstr "CA Repository"
+
+msgid "1.3.6.1.5.5.7.48.1.1"
+msgstr "Basic OCSP Response"
+
+msgid "1.3.6.1.5.5.7.48.1.2"
+msgstr "OCSP Nonce"
+
+msgid "1.3.6.1.5.5.7.48.1.3"
+msgstr "OCSP CRL ID"
+
+msgid "1.3.6.1.5.5.7.48.1.4"
+msgstr "Acceptable OCSP Responses"
+
+msgid "1.3.6.1.5.5.7.48.1.5"
+msgstr "OCSP No Check"
+
+msgid "1.3.6.1.5.5.7.48.1.6"
+msgstr "OCSP Archive Cutoff"
+
+msgid "1.3.6.1.5.5.7.48.1.7"
+msgstr "OCSP Service Locator"
+
+msgid "1.3.6.1.5.5.7.48.1.8"
+msgstr "Extended OCSP Status"
+
+msgid "1.3.6.1.5.5.7.48.1.11"
+msgstr "Trust Root"
+
+msgid "1.3.14.3.2"
+msgstr "algorithm"
+
+msgid "1.3.14.3.2.3"
+msgstr "md5WithRSA"
+
+msgid "1.3.14.3.2.6"
+msgstr "des-ecb"
+
+msgid "1.3.14.3.2.7"
+msgstr "des-cbc"
+
+msgid "1.3.14.3.2.8"
+msgstr "des-ofb"
+
+msgid "1.3.14.3.2.9"
+msgstr "des-cfb"
+
+msgid "1.3.14.3.2.12"
+msgstr "dsaEncryption-old"
+
+msgid "1.3.14.3.2.13"
+msgstr "dsaWithSHA"
+
+msgid "1.3.14.3.2.15"
+msgstr "shaWithRSAEncryption"
+
+msgid "1.3.14.3.2.17"
+msgstr "des-ede"
+
+msgid "1.3.14.3.2.18"
+msgstr "sha"
+
+msgid "1.3.14.3.2.26"
+msgstr "sha1"
+
+msgid "1.3.14.3.2.27"
+msgstr "dsaWithSHA1-old"
+
+msgid "1.3.14.3.2.29"
+msgstr "sha1WithRSA"
+
+msgid "1.3.36.3.2.1"
+msgstr "ripemd160"
+
+msgid "1.3.36.3.3.1.2"
+msgstr "ripemd160WithRSA"
+
+msgid "1.3.6.1.4.1.1722.12.2.1.16"
+msgstr "blake2b512"
+
+msgid "1.3.6.1.4.1.1722.12.2.2.8"
+msgstr "blake2s256"
+
+msgid "1.3.101.1.4.1"
+msgstr "Strong Extranet ID"
+
+msgid "2.5"
+msgstr "directory services (X.500)"
+
+msgid "2.5.4.3"
+msgstr "commonName"
+
+msgid "2.5.4.4"
+msgstr "surname"
+
+msgid "2.5.4.5"
+msgstr "serialNumber"
+
+msgid "2.5.4.6"
+msgstr "countryName"
+
+msgid "2.5.4.7"
+msgstr "localityName"
+
+msgid "2.5.4.8"
+msgstr "stateOrProvinceName"
+
+msgid "2.5.4.9"
+msgstr "streetAddress"
+
+msgid "2.5.4.10"
+msgstr "organizationName"
+
+msgid "2.5.4.11"
+msgstr "organizationalUnitName"
+
+msgid "2.5.4.12"
+msgstr "title"
+
+msgid "2.5.4.13"
+msgstr "description"
+
+msgid "2.5.4.14"
+msgstr "searchGuide"
+
+msgid "2.5.4.15"
+msgstr "businessCategory"
+
+msgid "2.5.4.16"
+msgstr "postalAddress"
+
+msgid "2.5.4.17"
+msgstr "postalCode"
+
+msgid "2.5.4.18"
+msgstr "postOfficeBox"
+
+msgid "2.5.4.19"
+msgstr "physicalDeliveryOfficeName"
+
+msgid "2.5.4.20"
+msgstr "telephoneNumber"
+
+msgid "2.5.4.21"
+msgstr "telexNumber"
+
+msgid "2.5.4.22"
+msgstr "teletexTerminalIdentifier"
+
+msgid "2.5.4.23"
+msgstr "facsimileTelephoneNumber"
+
+msgid "2.5.4.24"
+msgstr "x121Address"
+
+msgid "2.5.4.25"
+msgstr "internationaliSDNNumber"
+
+msgid "2.5.4.26"
+msgstr "registeredAddress"
+
+msgid "2.5.4.27"
+msgstr "destinationIndicator"
+
+msgid "2.5.4.28"
+msgstr "preferredDeliveryMethod"
+
+msgid "2.5.4.29"
+msgstr "presentationAddress"
+
+msgid "2.5.4.30"
+msgstr "supportedApplicationContext"
+
+msgid "2.5.4.33"
+msgstr "roleOccupant"
+
+msgid "2.5.4.35"
+msgstr "userPassword"
+
+msgid "2.5.4.36"
+msgstr "userCertificate"
+
+msgid "2.5.4.37"
+msgstr "cACertificate"
+
+msgid "2.5.4.38"
+msgstr "authorityRevocationList"
+
+msgid "2.5.4.39"
+msgstr "certificateRevocationList"
+
+msgid "2.5.4.40"
+msgstr "crossCertificatePair"
+
+msgid "2.5.4.41"
+msgstr "name"
+
+msgid "2.5.4.42"
+msgstr "givenName"
+
+msgid "2.5.4.43"
+msgstr "initials"
+
+msgid "2.5.4.44"
+msgstr "generationQualifier"
+
+msgid "2.5.4.45"
+msgstr "x500UniqueIdentifier"
+
+msgid "2.5.4.46"
+msgstr "dnQualifier"
+
+msgid "2.5.4.47"
+msgstr "enhancedSearchGuide"
+
+msgid "2.5.4.48"
+msgstr "protocolInformation"
+
+msgid "2.5.4.49"
+msgstr "distinguishedName"
+
+msgid "2.5.4.50"
+msgstr "uniqueMember"
+
+msgid "2.5.4.51"
+msgstr "houseIdentifier"
+
+msgid "2.5.4.52"
+msgstr "supportedAlgorithms"
+
+msgid "2.5.4.53"
+msgstr "deltaRevocationList"
+
+msgid "2.5.4.65"
+msgstr "pseudonym"
+
+msgid "2.5.4.72"
+msgstr "role"
+
+msgid "2.5.4.97"
+msgstr "organizationIdentifier"
+
+msgid "2.5.4.98"
+msgstr "countryCode3c"
+
+msgid "2.5.4.99"
+msgstr "countryCode3n"
+
+msgid "2.5.4.100"
+msgstr "dnsName"
+
+msgid "2.5.8"
+msgstr "directory services - algorithms"
+
+msgid "2.5.8.1.1"
+msgstr "rsa"
+
+msgid "2.5.8.3.100"
+msgstr "mdc2WithRSA"
+
+msgid "2.5.8.3.101"
+msgstr "mdc2"
+
+msgid "2.5.29.9"
+msgstr "X509v3 Subject Directory Attributes"
+
+msgid "2.5.29.14"
+msgstr "X509v3 Subject Key Identifier"
+
+msgid "2.5.29.15"
+msgstr "X509v3 Key Usage"
+
+msgid "2.5.29.16"
+msgstr "X509v3 Private Key Usage Period"
+
+msgid "2.5.29.17"
+msgstr "X509v3 Subject Alternative Name"
+
+msgid "2.5.29.18"
+msgstr "X509v3 Issuer Alternative Name"
+
+msgid "2.5.29.19"
+msgstr "X509v3 Basic Constraints"
+
+msgid "2.5.29.20"
+msgstr "X509v3 CRL Number"
+
+msgid "2.5.29.21"
+msgstr "X509v3 CRL Reason Code"
+
+msgid "2.5.29.24"
+msgstr "Invalidity Date"
+
+msgid "2.5.29.27"
+msgstr "X509v3 Delta CRL Indicator"
+
+msgid "2.5.29.28"
+msgstr "X509v3 Issuing Distribution Point"
+
+msgid "2.5.29.29"
+msgstr "X509v3 Certificate Issuer"
+
+msgid "2.5.29.30"
+msgstr "X509v3 Name Constraints"
+
+msgid "2.5.29.31"
+msgstr "X509v3 CRL Distribution Points"
+
+msgid "2.5.29.32"
+msgstr "X509v3 Certificate Policies"
+
+msgid "2.5.29.32.0"
+msgstr "X509v3 Any Policy"
+
+msgid "2.5.29.33"
+msgstr "X509v3 Policy Mappings"
+
+msgid "2.5.29.35"
+msgstr "X509v3 Authority Key Identifier"
+
+msgid "2.5.29.36"
+msgstr "X509v3 Policy Constraints"
+
+msgid "2.5.29.37"
+msgstr "X509v3 Extended Key Usage"
+
+msgid "2.5.29.46"
+msgstr "X509v3 Freshest CRL"
+
+msgid "2.5.29.54"
+msgstr "X509v3 Inhibit Any Policy"
+
+msgid "2.5.29.55"
+msgstr "X509v3 AC Targeting"
+
+msgid "2.5.29.56"
+msgstr "X509v3 No Revocation Available"
+
+msgid "2.5.29.37.0"
+msgstr "Any Extended Key Usage"
+
+msgid "2.16.840.1.113730"
+msgstr "Netscape Communications Corp."
+
+msgid "2.16.840.1.113730.1"
+msgstr "Netscape Certificate Extension"
+
+msgid "2.16.840.1.113730.2"
+msgstr "Netscape Data Type"
+
+msgid "2.16.840.1.113730.1.1"
+msgstr "Netscape Cert Type"
+
+msgid "2.16.840.1.113730.1.2"
+msgstr "Netscape Base Url"
+
+msgid "2.16.840.1.113730.1.3"
+msgstr "Netscape Revocation Url"
+
+msgid "2.16.840.1.113730.1.4"
+msgstr "Netscape CA Revocation Url"
+
+msgid "2.16.840.1.113730.1.7"
+msgstr "Netscape Renewal Url"
+
+msgid "2.16.840.1.113730.1.8"
+msgstr "Netscape CA Policy Url"
+
+msgid "2.16.840.1.113730.1.12"
+msgstr "Netscape SSL Server Name"
+
+msgid "2.16.840.1.113730.1.13"
+msgstr "Netscape Comment"
+
+msgid "2.16.840.1.113730.2.5"
+msgstr "Netscape Certificate Sequence"
+
+msgid "2.16.840.1.113730.4.1"
+msgstr "Netscape Server Gated Crypto"
+
+msgid "1.3"
+msgstr "org"
+
+msgid "1.3.6"
+msgstr "dod"
+
+msgid "1.3.6.1"
+msgstr "iana"
+
+msgid "1.3.6.1.1"
+msgstr "Directory"
+
+msgid "1.3.6.1.2"
+msgstr "Management"
+
+msgid "1.3.6.1.3"
+msgstr "Experimental"
+
+msgid "1.3.6.1.4"
+msgstr "Private"
+
+msgid "1.3.6.1.5"
+msgstr "Security"
+
+msgid "1.3.6.1.6"
+msgstr "SNMPv2"
+
+msgid "1.3.6.1.7"
+msgstr "Mail"
+
+msgid "1.3.6.1.4.1"
+msgstr "Enterprises"
+
+msgid "1.3.6.1.4.1.1466.344"
+msgstr "dcObject"
+
+msgid "1.3.6.1.7.1"
+msgstr "MIME MHS"
+
+msgid "1.3.6.1.7.1.1"
+msgstr "mime-mhs-headings"
+
+msgid "1.3.6.1.7.1.2"
+msgstr "mime-mhs-bodies"
+
+msgid "1.3.6.1.7.1.1.1"
+msgstr "id-hex-partial-message"
+
+msgid "1.3.6.1.7.1.1.2"
+msgstr "id-hex-multipart-message"
+
+msgid "1.2.840.113549.1.9.16.3.8"
+msgstr "zlib compression"
+
+msgid "2.16.840.1.101.3.4.1.1"
+msgstr "aes-128-ecb"
+
+msgid "2.16.840.1.101.3.4.1.2"
+msgstr "aes-128-cbc"
+
+msgid "2.16.840.1.101.3.4.1.3"
+msgstr "aes-128-ofb"
+
+msgid "2.16.840.1.101.3.4.1.4"
+msgstr "aes-128-cfb"
+
+msgid "2.16.840.1.101.3.4.1.6"
+msgstr "aes-128-gcm"
+
+msgid "2.16.840.1.101.3.4.1.7"
+msgstr "aes-128-ccm"
+
+msgid "2.16.840.1.101.3.4.1.21"
+msgstr "aes-192-ecb"
+
+msgid "2.16.840.1.101.3.4.1.22"
+msgstr "aes-192-cbc"
+
+msgid "2.16.840.1.101.3.4.1.23"
+msgstr "aes-192-ofb"
+
+msgid "2.16.840.1.101.3.4.1.24"
+msgstr "aes-192-cfb"
+
+msgid "2.16.840.1.101.3.4.1.26"
+msgstr "aes-192-gcm"
+
+msgid "2.16.840.1.101.3.4.1.27"
+msgstr "aes-192-ccm"
+
+msgid "2.16.840.1.101.3.4.1.41"
+msgstr "aes-256-ecb"
+
+msgid "2.16.840.1.101.3.4.1.42"
+msgstr "aes-256-cbc"
+
+msgid "2.16.840.1.101.3.4.1.43"
+msgstr "aes-256-ofb"
+
+msgid "2.16.840.1.101.3.4.1.44"
+msgstr "aes-256-cfb"
+
+msgid "2.16.840.1.101.3.4.1.46"
+msgstr "aes-256-gcm"
+
+msgid "2.16.840.1.101.3.4.1.47"
+msgstr "aes-256-ccm"
+
+msgid "1.3.111.2.1619.0.1.1"
+msgstr "aes-128-xts"
+
+msgid "1.3.111.2.1619.0.1.2"
+msgstr "aes-256-xts"
+
+msgid "2.16.840.1.101.3.4.2.1"
+msgstr "sha256"
+
+msgid "2.16.840.1.101.3.4.2.2"
+msgstr "sha384"
+
+msgid "2.16.840.1.101.3.4.2.3"
+msgstr "sha512"
+
+msgid "2.16.840.1.101.3.4.2.4"
+msgstr "sha224"
+
+msgid "2.16.840.1.101.3.4.2.5"
+msgstr "sha512-224"
+
+msgid "2.16.840.1.101.3.4.2.6"
+msgstr "sha512-256"
+
+msgid "2.16.840.1.101.3.4.2.7"
+msgstr "sha3-224"
+
+msgid "2.16.840.1.101.3.4.2.8"
+msgstr "sha3-256"
+
+msgid "2.16.840.1.101.3.4.2.9"
+msgstr "sha3-384"
+
+msgid "2.16.840.1.101.3.4.2.10"
+msgstr "sha3-512"
+
+msgid "2.16.840.1.101.3.4.2.11"
+msgstr "shake128"
+
+msgid "2.16.840.1.101.3.4.2.12"
+msgstr "shake256"
+
+msgid "2.16.840.1.101.3.4.2.13"
+msgstr "hmac-sha3-224"
+
+msgid "2.16.840.1.101.3.4.2.14"
+msgstr "hmac-sha3-256"
+
+msgid "2.16.840.1.101.3.4.2.15"
+msgstr "hmac-sha3-384"
+
+msgid "2.16.840.1.101.3.4.2.16"
+msgstr "hmac-sha3-512"
+
+msgid "2.16.840.1.101.3.4.3.3"
+msgstr "dsa_with_SHA384"
+
+msgid "2.16.840.1.101.3.4.3.4"
+msgstr "dsa_with_SHA512"
+
+msgid "2.16.840.1.101.3.4.3.5"
+msgstr "dsa_with_SHA3-224"
+
+msgid "2.16.840.1.101.3.4.3.6"
+msgstr "dsa_with_SHA3-256"
+
+msgid "2.16.840.1.101.3.4.3.7"
+msgstr "dsa_with_SHA3-384"
+
+msgid "2.16.840.1.101.3.4.3.8"
+msgstr "dsa_with_SHA3-512"
+
+msgid "2.16.840.1.101.3.4.3.9"
+msgstr "ecdsa_with_SHA3-224"
+
+msgid "2.16.840.1.101.3.4.3.10"
+msgstr "ecdsa_with_SHA3-256"
+
+msgid "2.16.840.1.101.3.4.3.11"
+msgstr "ecdsa_with_SHA3-384"
+
+msgid "2.16.840.1.101.3.4.3.12"
+msgstr "ecdsa_with_SHA3-512"
+
+msgid "2.16.840.1.101.3.4.3.13"
+msgstr "RSA-SHA3-224"
+
+msgid "2.16.840.1.101.3.4.3.14"
+msgstr "RSA-SHA3-256"
+
+msgid "2.16.840.1.101.3.4.3.15"
+msgstr "RSA-SHA3-384"
+
+msgid "2.16.840.1.101.3.4.3.16"
+msgstr "RSA-SHA3-512"
+
+msgid "2.5.29.23"
+msgstr "Hold Instruction Code"
+
+msgid "1.2.840.10040.2.1"
+msgstr "Hold Instruction None"
+
+msgid "1.2.840.10040.2.2"
+msgstr "Hold Instruction Call Issuer"
+
+msgid "1.2.840.10040.2.3"
+msgstr "Hold Instruction Reject"
+
+msgid "0.9.2342.19200300.100.1"
+msgstr "pilotAttributeType"
+
+msgid "0.9.2342.19200300.100.3"
+msgstr "pilotAttributeSyntax"
+
+msgid "0.9.2342.19200300.100.4"
+msgstr "pilotObjectClass"
+
+msgid "0.9.2342.19200300.100.10"
+msgstr "pilotGroups"
+
+msgid "0.9.2342.19200300.100.3.4"
+msgstr "iA5StringSyntax"
+
+msgid "0.9.2342.19200300.100.3.5"
+msgstr "caseIgnoreIA5StringSyntax"
+
+msgid "0.9.2342.19200300.100.4.3"
+msgstr "pilotObject"
+
+msgid "0.9.2342.19200300.100.4.4"
+msgstr "pilotPerson"
+
+msgid "0.9.2342.19200300.100.4.9"
+msgstr "documentSeries"
+
+msgid "0.9.2342.19200300.100.4.13"
+msgstr "Domain"
+
+msgid "0.9.2342.19200300.100.4.14"
+msgstr "rFC822localPart"
+
+msgid "0.9.2342.19200300.100.4.15"
+msgstr "dNSDomain"
+
+msgid "0.9.2342.19200300.100.4.17"
+msgstr "domainRelatedObject"
+
+msgid "0.9.2342.19200300.100.4.18"
+msgstr "friendlyCountry"
+
+msgid "0.9.2342.19200300.100.4.19"
+msgstr "simpleSecurityObject"
+
+msgid "0.9.2342.19200300.100.4.20"
+msgstr "pilotOrganization"
+
+msgid "0.9.2342.19200300.100.4.21"
+msgstr "pilotDSA"
+
+msgid "0.9.2342.19200300.100.4.22"
+msgstr "qualityLabelledData"
+
+msgid "0.9.2342.19200300.100.1.1"
+msgstr "userId"
+
+msgid "0.9.2342.19200300.100.1.2"
+msgstr "textEncodedORAddress"
+
+msgid "0.9.2342.19200300.100.1.3"
+msgstr "rfc822Mailbox"
+
+msgid "0.9.2342.19200300.100.1.5"
+msgstr "favouriteDrink"
+
+msgid "0.9.2342.19200300.100.1.6"
+msgstr "roomNumber"
+
+msgid "0.9.2342.19200300.100.1.8"
+msgstr "userClass"
+
+msgid "0.9.2342.19200300.100.1.11"
+msgstr "documentIdentifier"
+
+msgid "0.9.2342.19200300.100.1.12"
+msgstr "documentTitle"
+
+msgid "0.9.2342.19200300.100.1.13"
+msgstr "documentVersion"
+
+msgid "0.9.2342.19200300.100.1.14"
+msgstr "documentAuthor"
+
+msgid "0.9.2342.19200300.100.1.15"
+msgstr "documentLocation"
+
+msgid "0.9.2342.19200300.100.1.20"
+msgstr "homeTelephoneNumber"
+
+msgid "0.9.2342.19200300.100.1.22"
+msgstr "otherMailbox"
+
+msgid "0.9.2342.19200300.100.1.23"
+msgstr "lastModifiedTime"
+
+msgid "0.9.2342.19200300.100.1.24"
+msgstr "lastModifiedBy"
+
+msgid "0.9.2342.19200300.100.1.25"
+msgstr "domainComponent"
+
+msgid "0.9.2342.19200300.100.1.26"
+msgstr "aRecord"
+
+msgid "0.9.2342.19200300.100.1.27"
+msgstr "pilotAttributeType27"
+
+msgid "0.9.2342.19200300.100.1.28"
+msgstr "mXRecord"
+
+msgid "0.9.2342.19200300.100.1.29"
+msgstr "nSRecord"
+
+msgid "0.9.2342.19200300.100.1.30"
+msgstr "sOARecord"
+
+msgid "0.9.2342.19200300.100.1.31"
+msgstr "cNAMERecord"
+
+msgid "0.9.2342.19200300.100.1.37"
+msgstr "associatedDomain"
+
+msgid "0.9.2342.19200300.100.1.38"
+msgstr "associatedName"
+
+msgid "0.9.2342.19200300.100.1.39"
+msgstr "homePostalAddress"
+
+msgid "0.9.2342.19200300.100.1.40"
+msgstr "personalTitle"
+
+msgid "0.9.2342.19200300.100.1.41"
+msgstr "mobileTelephoneNumber"
+
+msgid "0.9.2342.19200300.100.1.42"
+msgstr "pagerTelephoneNumber"
+
+msgid "0.9.2342.19200300.100.1.43"
+msgstr "friendlyCountryName"
+
+msgid "0.9.2342.19200300.100.1.44"
+msgstr "uniqueIdentifier"
+
+msgid "0.9.2342.19200300.100.1.45"
+msgstr "organizationalStatus"
+
+msgid "0.9.2342.19200300.100.1.46"
+msgstr "janetMailbox"
+
+msgid "0.9.2342.19200300.100.1.47"
+msgstr "mailPreferenceOption"
+
+msgid "0.9.2342.19200300.100.1.48"
+msgstr "buildingName"
+
+msgid "0.9.2342.19200300.100.1.49"
+msgstr "dSAQuality"
+
+msgid "0.9.2342.19200300.100.1.50"
+msgstr "singleLevelQuality"
+
+msgid "0.9.2342.19200300.100.1.51"
+msgstr "subtreeMinimumQuality"
+
+msgid "0.9.2342.19200300.100.1.52"
+msgstr "subtreeMaximumQuality"
+
+msgid "0.9.2342.19200300.100.1.53"
+msgstr "personalSignature"
+
+msgid "0.9.2342.19200300.100.1.54"
+msgstr "dITRedirect"
+
+msgid "0.9.2342.19200300.100.1.56"
+msgstr "documentPublisher"
+
+msgid "2.23.42"
+msgstr "Secure Electronic Transactions"
+
+msgid "2.23.42.0"
+msgstr "content types"
+
+msgid "2.23.42.1"
+msgstr "message extensions"
+
+msgid "2.23.42.7"
+msgstr "certificate extensions"
+
+msgid "2.23.42.1.1"
+msgstr "generic cryptogram"
+
+msgid "2.23.42.1.3"
+msgstr "merchant initiated auth"
+
+msgid "2.23.42.1.8"
+msgstr "additional verification"
+
+msgid "2.23.42.3.1"
+msgstr "payment gateway capabilities"
+
+msgid "2.23.42.3.3"
+msgstr "issuer capabilities"
+
+msgid "2.23.42.3.3.3.1"
+msgstr "generate cryptogram"
+
+msgid "2.23.42.3.3.4.1"
+msgstr "encrypted track 2"
+
+msgid "2.23.42.3.3.4.2"
+msgstr "cleartext track 2"
+
+msgid "2.23.42.3.3.5.1"
+msgstr "ICC or token signature"
+
+msgid "2.23.42.3.3.5.2"
+msgstr "secure device signature"
+
+msgid "1.2.840.113549.3.10"
+msgstr "des-cdmf"
+
+msgid "1.2.643.2.2.3"
+msgstr "GOST R 34.11-94 with GOST R 34.10-2001"
+
+msgid "1.2.643.2.2.4"
+msgstr "GOST R 34.11-94 with GOST R 34.10-94"
+
+msgid "1.2.643.2.2.9"
+msgstr "GOST R 34.11-94"
+
+msgid "1.2.643.2.2.10"
+msgstr "HMAC GOST 34.11-94"
+
+msgid "1.2.643.2.2.19"
+msgstr "GOST R 34.10-2001"
+
+msgid "1.2.643.2.2.20"
+msgstr "GOST R 34.10-94"
+
+msgid "1.2.643.2.2.21"
+msgstr "GOST 28147-89"
+
+msgid "1.2.643.2.2.22"
+msgstr "GOST 28147-89 MAC"
+
+msgid "1.2.643.2.2.23"
+msgstr "GOST R 34.11-94 PRF"
+
+msgid "1.2.643.2.2.98"
+msgstr "GOST R 34.10-2001 DH"
+
+msgid "1.2.643.2.2.99"
+msgstr "GOST R 34.10-94 DH"
+
+msgid "1.2.643.2.9.1.6.1"
+msgstr "GOST 28147-89 Cryptocom ParamSet"
+
+msgid "1.2.643.2.9.1.5.3"
+msgstr "GOST 34.10-94 Cryptocom"
+
+msgid "1.2.643.2.9.1.5.4"
+msgstr "GOST 34.10-2001 Cryptocom"
+
+msgid "1.2.643.2.9.1.3.3"
+msgstr "GOST R 34.11-94 with GOST R 34.10-94 Cryptocom"
+
+msgid "1.2.643.2.9.1.3.4"
+msgstr "GOST R 34.11-94 with GOST R 34.10-2001 Cryptocom"
+
+msgid "1.2.643.2.9.1.8.1"
+msgstr "GOST R 3410-2001 Parameter Set Cryptocom"
+
+msgid "1.2.643.7.1.1.1.1"
+msgstr "GOST R 34.10-2012 with 256 bit modulus"
+
+msgid "1.2.643.7.1.1.1.2"
+msgstr "GOST R 34.10-2012 with 512 bit modulus"
+
+msgid "1.2.643.7.1.1.2.2"
+msgstr "GOST R 34.11-2012 with 256 bit hash"
+
+msgid "1.2.643.7.1.1.2.3"
+msgstr "GOST R 34.11-2012 with 512 bit hash"
+
+msgid "1.2.643.7.1.1.3.2"
+msgstr "GOST R 34.10-2012 with GOST R 34.11-2012 (256 bit)"
+
+msgid "1.2.643.7.1.1.3.3"
+msgstr "GOST R 34.10-2012 with GOST R 34.11-2012 (512 bit)"
+
+msgid "1.2.643.7.1.1.4.1"
+msgstr "HMAC GOST 34.11-2012 256 bit"
+
+msgid "1.2.643.7.1.1.4.2"
+msgstr "HMAC GOST 34.11-2012 512 bit"
+
+msgid "1.2.643.7.1.2.1.1.1"
+msgstr "GOST R 34.10-2012 (256 bit) ParamSet A"
+
+msgid "1.2.643.7.1.2.1.1.2"
+msgstr "GOST R 34.10-2012 (256 bit) ParamSet B"
+
+msgid "1.2.643.7.1.2.1.1.3"
+msgstr "GOST R 34.10-2012 (256 bit) ParamSet C"
+
+msgid "1.2.643.7.1.2.1.1.4"
+msgstr "GOST R 34.10-2012 (256 bit) ParamSet D"
+
+msgid "1.2.643.7.1.2.1.2.0"
+msgstr "GOST R 34.10-2012 (512 bit) testing parameter set"
+
+msgid "1.2.643.7.1.2.1.2.1"
+msgstr "GOST R 34.10-2012 (512 bit) ParamSet A"
+
+msgid "1.2.643.7.1.2.1.2.2"
+msgstr "GOST R 34.10-2012 (512 bit) ParamSet B"
+
+msgid "1.2.643.7.1.2.1.2.3"
+msgstr "GOST R 34.10-2012 (512 bit) ParamSet C"
+
+msgid "1.2.643.7.1.2.5.1.1"
+msgstr "GOST 28147-89 TC26 parameter set"
+
+msgid "1.2.643.3.131.1.1"
+msgstr "INN"
+
+msgid "1.2.643.100.1"
+msgstr "OGRN"
+
+msgid "1.2.643.100.3"
+msgstr "SNILS"
+
+msgid "1.2.643.100.111"
+msgstr "Signing Tool of Subject"
+
+msgid "1.2.643.100.112"
+msgstr "Signing Tool of Issuer"
+
+msgid "1.2.392.200011.61.1.1.1.2"
+msgstr "camellia-128-cbc"
+
+msgid "1.2.392.200011.61.1.1.1.3"
+msgstr "camellia-192-cbc"
+
+msgid "1.2.392.200011.61.1.1.1.4"
+msgstr "camellia-256-cbc"
+
+msgid "0.3.4401.5.3.1.9.1"
+msgstr "camellia-128-ecb"
+
+msgid "0.3.4401.5.3.1.9.3"
+msgstr "camellia-128-ofb"
+
+msgid "0.3.4401.5.3.1.9.4"
+msgstr "camellia-128-cfb"
+
+msgid "0.3.4401.5.3.1.9.6"
+msgstr "camellia-128-gcm"
+
+msgid "0.3.4401.5.3.1.9.7"
+msgstr "camellia-128-ccm"
+
+msgid "0.3.4401.5.3.1.9.9"
+msgstr "camellia-128-ctr"
+
+msgid "0.3.4401.5.3.1.9.10"
+msgstr "camellia-128-cmac"
+
+msgid "0.3.4401.5.3.1.9.21"
+msgstr "camellia-192-ecb"
+
+msgid "0.3.4401.5.3.1.9.23"
+msgstr "camellia-192-ofb"
+
+msgid "0.3.4401.5.3.1.9.24"
+msgstr "camellia-192-cfb"
+
+msgid "0.3.4401.5.3.1.9.26"
+msgstr "camellia-192-gcm"
+
+msgid "0.3.4401.5.3.1.9.27"
+msgstr "camellia-192-ccm"
+
+msgid "0.3.4401.5.3.1.9.29"
+msgstr "camellia-192-ctr"
+
+msgid "0.3.4401.5.3.1.9.30"
+msgstr "camellia-192-cmac"
+
+msgid "0.3.4401.5.3.1.9.41"
+msgstr "camellia-256-ecb"
+
+msgid "0.3.4401.5.3.1.9.43"
+msgstr "camellia-256-ofb"
+
+msgid "0.3.4401.5.3.1.9.44"
+msgstr "camellia-256-cfb"
+
+msgid "0.3.4401.5.3.1.9.46"
+msgstr "camellia-256-gcm"
+
+msgid "0.3.4401.5.3.1.9.47"
+msgstr "camellia-256-ccm"
+
+msgid "0.3.4401.5.3.1.9.49"
+msgstr "camellia-256-ctr"
+
+msgid "0.3.4401.5.3.1.9.50"
+msgstr "camellia-256-cmac"
+
+msgid "1.2.410.200046.1.1.1"
+msgstr "aria-128-ecb"
+
+msgid "1.2.410.200046.1.1.2"
+msgstr "aria-128-cbc"
+
+msgid "1.2.410.200046.1.1.3"
+msgstr "aria-128-cfb"
+
+msgid "1.2.410.200046.1.1.4"
+msgstr "aria-128-ofb"
+
+msgid "1.2.410.200046.1.1.5"
+msgstr "aria-128-ctr"
+
+msgid "1.2.410.200046.1.1.6"
+msgstr "aria-192-ecb"
+
+msgid "1.2.410.200046.1.1.7"
+msgstr "aria-192-cbc"
+
+msgid "1.2.410.200046.1.1.8"
+msgstr "aria-192-cfb"
+
+msgid "1.2.410.200046.1.1.9"
+msgstr "aria-192-ofb"
+
+msgid "1.2.410.200046.1.1.10"
+msgstr "aria-192-ctr"
+
+msgid "1.2.410.200046.1.1.11"
+msgstr "aria-256-ecb"
+
+msgid "1.2.410.200046.1.1.12"
+msgstr "aria-256-cbc"
+
+msgid "1.2.410.200046.1.1.13"
+msgstr "aria-256-cfb"
+
+msgid "1.2.410.200046.1.1.14"
+msgstr "aria-256-ofb"
+
+msgid "1.2.410.200046.1.1.15"
+msgstr "aria-256-ctr"
+
+msgid "1.2.410.200046.1.1.37"
+msgstr "aria-128-ccm"
+
+msgid "1.2.410.200046.1.1.38"
+msgstr "aria-192-ccm"
+
+msgid "1.2.410.200046.1.1.39"
+msgstr "aria-256-ccm"
+
+msgid "1.2.410.200046.1.1.34"
+msgstr "aria-128-gcm"
+
+msgid "1.2.410.200046.1.1.35"
+msgstr "aria-192-gcm"
+
+msgid "1.2.410.200046.1.1.36"
+msgstr "aria-256-gcm"
+
+msgid "1.2.410.200004"
+msgstr "kisa"
+
+msgid "1.2.410.200004.1.3"
+msgstr "seed-ecb"
+
+msgid "1.2.410.200004.1.4"
+msgstr "seed-cbc"
+
+msgid "1.2.410.200004.1.5"
+msgstr "seed-cfb"
+
+msgid "1.2.410.200004.1.6"
+msgstr "seed-ofb"
+
+msgid "1.2.156.10197.1.104.1"
+msgstr "sm4-ecb"
+
+msgid "1.2.156.10197.1.104.2"
+msgstr "sm4-cbc"
+
+msgid "1.2.156.10197.1.104.3"
+msgstr "sm4-ofb"
+
+msgid "1.2.156.10197.1.104.4"
+msgstr "sm4-cfb"
+
+msgid "1.2.156.10197.1.104.5"
+msgstr "sm4-cfb1"
+
+msgid "1.2.156.10197.1.104.6"
+msgstr "sm4-cfb8"
+
+msgid "1.2.156.10197.1.104.7"
+msgstr "sm4-ctr"
+
+msgid "1.2.840.10046.2.1"
+msgstr "X9.42 DH"
+
+msgid "1.3.6.1.4.1.11129.2.4.2"
+msgstr "CT Precertificate SCTs"
+
+msgid "1.3.6.1.4.1.11129.2.4.3"
+msgstr "CT Precertificate Poison"
+
+msgid "1.3.6.1.4.1.11129.2.4.4"
+msgstr "CT Precertificate Signer"
+
+msgid "1.3.6.1.4.1.11129.2.4.5"
+msgstr "CT Certificate SCTs"
+
+msgid "1.3.6.1.4.1.311.60.2.1.1"
+msgstr "jurisdictionLocalityName"
+
+msgid "1.3.6.1.4.1.311.60.2.1.2"
+msgstr "jurisdictionStateOrProvinceName"
+
+msgid "1.3.6.1.4.1.311.60.2.1.3"
+msgstr "jurisdictionCountryName"
+
+msgid "1.3.6.1.4.1.11591.4.11"
+msgstr "scrypt"
+
+msgid "1.3.6.1.5.2.3.4"
+msgstr "PKINIT Client Auth"
+
+msgid "1.3.6.1.5.2.3.5"
+msgstr "Signing KDC Response"
+
+msgid "1.2.804.2.1.1.1.1.1.1"
+msgstr "DSTU Gost 28147-2009"
+
+msgid "1.2.804.2.1.1.1.1.1.1.2"
+msgstr "DSTU Gost 28147-2009 OFB mode"
+
+msgid "1.2.804.2.1.1.1.1.1.1.3"
+msgstr "DSTU Gost 28147-2009 CFB mode"
+
+msgid "1.2.804.2.1.1.1.1.1.1.5"
+msgstr "DSTU Gost 28147-2009 key wrap"
+
+msgid "1.2.804.2.1.1.1.1.1.2"
+msgstr "HMAC DSTU Gost 34311-95"
+
+msgid "1.2.804.2.1.1.1.1.2.1"
+msgstr "DSTU Gost 34311-95"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1"
+msgstr "DSTU 4145-2002 little endian"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.1.1"
+msgstr "DSTU 4145-2002 big endian"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.0"
+msgstr "DSTU curve 0"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.1"
+msgstr "DSTU curve 1"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.2"
+msgstr "DSTU curve 2"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.3"
+msgstr "DSTU curve 3"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.4"
+msgstr "DSTU curve 4"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.5"
+msgstr "DSTU curve 5"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.6"
+msgstr "DSTU curve 6"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.7"
+msgstr "DSTU curve 7"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.8"
+msgstr "DSTU curve 8"
+
+msgid "1.2.804.2.1.1.1.1.3.1.1.2.9"
+msgstr "DSTU curve 9"
+
